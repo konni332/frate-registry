@@ -8,11 +8,11 @@
         },
         "1.42.1-macos": {
             "url": "https://github.com/casey/just/releases/download/1.42.1/just-1.42.1-x86_64-apple-darwin.tar.gz",
-            "hash": "sha256:91f31906f26acfc13cb57abddaf091876331efed6dfbf7b53bd507d1e9eed8ec",
+            "hash": "sha256:91f31906f26acfc13cb57abddaf091876331efed6dfbf7b53bd507d1e9eed8ec"
         },
         "1.42.1-windows": {
             "url": "https://github.com/casey/just/releases/download/1.42.1/just-1.42.1-x86_64-pc-windows-msvc.zip",
-            "hash": "sha256:3c7c6a55d5866936009a5ee289faaf81cb5300b7498c563cc4827a59b4ae2c5a",
+            "hash": "sha256:3c7c6a55d5866936009a5ee289faaf81cb5300b7498c563cc4827a59b4ae2c5a"
         }
     }
 }
