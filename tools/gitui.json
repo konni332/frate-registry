@@ -1,0 +1,82 @@
+{
+  "name": "gitui",
+  "repo": "https://github.com/extrawurst/gitui",
+  "releases": {
+    "0.25.2-aarch64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.25.2/gitui-linux-aarch64.tar.gz",
+      "hash": "sha256:5ad0662b5c13a02946ce85fcb68f95bb7982b0f73de67e759e7af6d9576b5cb7"
+    },
+    "0.26.0-aarch64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.0/gitui-linux-aarch64.tar.gz",
+      "hash": "sha256:ceec30d3a5f065654fff911095ca82e0e64a1f16573ea5ff88986054912a95e8"
+    },
+    "0.26.0-x86_64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.0/gitui-linux-x86_64.tar.gz",
+      "hash": "sha256:c34a7283b38973a3174bd78867c2883b0e8cbb3ecf8a0cfc0397a167e965a00f"
+    },
+    "0.26.1-aarch64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.1/gitui-linux-aarch64.tar.gz",
+      "hash": "sha256:4ee09ac2e42a1a95bab42e22abeb04e50edd32025821bbeb84dec140fce6506c"
+    },
+    "0.26.1-rc1-aarch64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.1-rc1/gitui-linux-aarch64.tar.gz",
+      "hash": "sha256:bbeba8487b4a7055fc18ff4ff1a06c45b9889c9662dd5477e9a9db8b121e4337"
+    },
+    "0.26.1-rc1-x86_64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.1-rc1/gitui-linux-x86_64.tar.gz",
+      "hash": "sha256:6734587fef9b0f3e96541bb418350b1379d7fe08121e47891052628189cfff49"
+    },
+    "0.26.1-x86_64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.1/gitui-linux-x86_64.tar.gz",
+      "hash": "sha256:b17661507b0bf985965980b3be2b38a4aad5f3b953bb07976430ab59dd76e7a4"
+    },
+    "0.26.2-aarch64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.2/gitui-linux-aarch64.tar.gz",
+      "hash": "sha256:5f6e26caf1059eb0c3fd6a41419fde6420be18f813a9f5b97762a814c8812a60"
+    },
+    "0.26.2-rc.1-aarch64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.2-rc.1/gitui-linux-aarch64.tar.gz",
+      "hash": "sha256:93bacba5f40438cd8484056b274c845537105e1e8921426e5e6fad41ff2739a2"
+    },
+    "0.26.2-rc.1-x86_64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.2-rc.1/gitui-linux-x86_64.tar.gz",
+      "hash": "sha256:d208eda5ac4785a739e6a48fb7d1ff0f7b3a6456fb56add42d587ee9b76b75c1"
+    },
+    "0.26.2-x86_64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.2/gitui-linux-x86_64.tar.gz",
+      "hash": "sha256:d9670cab52b5656ca48ea8a0afa89cdc47a357a4a6a3de89f29b843e3e61ac15"
+    },
+    "0.26.3-aarch64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.3/gitui-linux-aarch64.tar.gz",
+      "hash": "sha256:0f08d966bb6d3774a5045f22ec8389073a650d331b26d88fb7a228ed780ac6a6"
+    },
+    "0.26.3-rc.1-aarch64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.3-rc.1/gitui-linux-aarch64.tar.gz",
+      "hash": "sha256:cf098b9e7063a756a13eb85e969723eaae963c3dd2bca700239b5ca7df5bcbc2"
+    },
+    "0.26.3-rc.1-x86_64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.3-rc.1/gitui-linux-x86_64.tar.gz",
+      "hash": "sha256:14d7507ddcac3aa44649cf9561170da87611a5911e611d4ea327e2d9d0a75dec"
+    },
+    "0.26.3-x86_64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.26.3/gitui-linux-x86_64.tar.gz",
+      "hash": "sha256:95a9570dd98789e710e27a00f60413a959d9448d8a0a945af5b7c3c0883fe2df"
+    },
+    "0.27.0-aarch64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.27.0/gitui-linux-aarch64.tar.gz",
+      "hash": "sha256:56116e278c618c054e7575adf3b357504c75fa1b5a3ecb9314504d521c07a008"
+    },
+    "0.27.0-rc.1-aarch64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.27.0-rc.1/gitui-linux-aarch64.tar.gz",
+      "hash": "sha256:6cf19d628fa5842ff6c22e454ef68515fdd694816fdd921992117f34d3e121ab"
+    },
+    "0.27.0-rc.1-x86_64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.27.0-rc.1/gitui-linux-x86_64.tar.gz",
+      "hash": "sha256:54844e3be9349f361c68400555fc69d847847ee7c9f93689b884245b085bb42c"
+    },
+    "0.27.0-x86_64": {
+      "url": "https://github.com/gitui-org/gitui/releases/download/v0.27.0/gitui-linux-x86_64.tar.gz",
+      "hash": "sha256:e58bd776170ac71e4e576c60ebaa7ccfb770f079e78eb4b2d3f4c0d4feafdd9f"
+    }
+  }
+}

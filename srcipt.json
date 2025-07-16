@@ -1,0 +1,80 @@
+[
+  {
+    "name": "procs",
+    "repo": "dalance/procs",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "hyperfine",
+    "repo": "sharkdp/hyperfine",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "bottom",
+    "repo": "ClementTsang/bottom",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "broot",
+    "repo": "Canop/broot",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "tokei",
+    "repo": "XAMPPRocky/tokei",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "tealdeer",
+    "repo": "dbrgn/tealdeer",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "zellij",
+    "repo": "zellij-org/zellij",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "atuin",
+    "repo": "atuinsh/atuin",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "starship",
+    "repo": "starship/starship",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "gitui",
+    "repo": "extrawurst/gitui",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "fzf",
+    "repo": "junegunn/fzf",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "delta",
+    "repo": "dandavison/delta",
+    "out": null,
+    "max": 10
+  },
+  {
+    "name": "helix",
+    "repo": "helix-editor/helix",
+    "out": null,
+    "max": 10
+  }
+]

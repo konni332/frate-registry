@@ -1,18 +1,246 @@
 {
-    "name": "just",
-    "repo": "https://github.com/casey/just",
-    "releases": {
-        "1.42.1-x86_64-unknown-linux-musl": {
-            "url": "https://github.com/casey/just/releases/download/1.42.1/just-1.42.1-x86_64-unknown-linux-musl.tar.gz",
-            "hash": "sha256:079b2bba3d6299a5875f591fd5d14477de03d21aabd19c8c75c3d6802df1eb08"
-        },
-        "1.42.1-x86_64-apple-darwin": {
-            "url": "https://github.com/casey/just/releases/download/1.42.1/just-1.42.1-x86_64-apple-darwin.tar.gz",
-            "hash": "sha256:91f31906f26acfc13cb57abddaf091876331efed6dfbf7b53bd507d1e9eed8ec"
-        },
-        "1.42.1-x86_64-pc-windows-msvc": {
-            "url": "https://github.com/casey/just/releases/download/1.42.1/just-1.42.1-x86_64-pc-windows-msvc.zip",
-            "hash": "sha256:3c7c6a55d5866936009a5ee289faaf81cb5300b7498c563cc4827a59b4ae2c5a"
-        }
+  "name": "just",
+  "repo": "https://github.com/casey/just",
+  "releases": {
+    "1.35.0-aarch64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.35.0/just-1.35.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:898cc0623112a5912ef2dd891020d68e6b8eba9250c76460547f1703e550fabb"
+    },
+    "1.35.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.35.0/just-1.35.0-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:908785c84a63b36109aa35f3c38c480ca8e91862e156c18c0eca60d43c216fe6"
+    },
+    "1.35.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.35.0/just-1.35.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:a94c75426239fce8c1e7fdfccd20d60d987924f91ac45c843a14cd72d4d71e73"
+    },
+    "1.35.0-x86_64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.35.0/just-1.35.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:d947700b3bd86ec5dc146f2d7fa6046010135d01ab6488bd65451b46acf3aeb6"
+    },
+    "1.35.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.35.0/just-1.35.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:b53aebf423e701fb94442af8e7cf20400bc7bed46de297c6e0e9eb9c6fdb24e2"
+    },
+    "1.35.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.35.0/just-1.35.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:c4172306e241bd175c07316156a610593fa2b687ac49418520a375605d7cead4"
+    },
+    "1.36.0-aarch64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.36.0/just-1.36.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:e7a824c4d92cdea270b61474bd48e851aedc4c65f9c5245c12b32df6de9b536f"
+    },
+    "1.36.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.36.0/just-1.36.0-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:9372e4f5e41dbe50140c9ce885b7db9e7431102640b2ff1402364cc348c92acf"
+    },
+    "1.36.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.36.0/just-1.36.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:bb3886b15e2cbcb9c0eb19956297d36de4eaef45b89d3f5fa5d1fc4ed3b5b51d"
+    },
+    "1.36.0-x86_64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.36.0/just-1.36.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:30aacf9cbf021c2ff36fff5a05c800360e2020e527916e1c0960452ef5a8568c"
+    },
+    "1.36.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.36.0/just-1.36.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:7c0d56a07d51ddc4cdc2bd7d1e7e0223ada0281bc06bd482b8918102acf037fe"
+    },
+    "1.36.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.36.0/just-1.36.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:bc7c9f377944f8de9cd0418b11d2955adebfa25a488c0b5e3dd2d2c0e9d732da"
+    },
+    "1.37.0-aarch64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.37.0/just-1.37.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:613a7c96398fcccc2a5334a63bb525e865e74abee28d0df1869824a8c0c0dbeb"
+    },
+    "1.37.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.37.0/just-1.37.0-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:3ad79e2ea63e1eac3894c189b1510afebe36d49bd470896c4c97b1fe72f32fdd"
+    },
+    "1.37.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.37.0/just-1.37.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:96a75ed35ef2cb227d921fa71cd8c8dfb5828ca197e2740ca8626546d393b04e"
+    },
+    "1.37.0-x86_64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.37.0/just-1.37.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:be9b503be9c50a280b92431035adc20a64a84dd1889f97b4e2f2844c77650fc7"
+    },
+    "1.37.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.37.0/just-1.37.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:fc62b5dc04e103de15e04caeeb0398d286129353ff24302dd5e4da1fbd7badac"
+    },
+    "1.37.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.37.0/just-1.37.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:9e301da1a46153b4c9adf9efe20d05361467b5591b1b3cf8880db59a1d019963"
+    },
+    "1.38.0-aarch64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.38.0/just-1.38.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:9f352a4bdd1ff91dc5bd1dafaaa2edc9e7c04a2eb64b1c18244578ae45ff116a"
+    },
+    "1.38.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.38.0/just-1.38.0-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:955c68713532e74810501a17f991eaf9985b303eb6ceaf16fd242e5949e6a440"
+    },
+    "1.38.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.38.0/just-1.38.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:efded3b062708c2bf55e7d7e7208f47ab70134a299e66e42d2759f67b421f9d3"
+    },
+    "1.38.0-x86_64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.38.0/just-1.38.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:7b94bdbb1e7ecc9254c038de5e0b30b7bc133cc5c05cf30b6236df2c2ef80226"
+    },
+    "1.38.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.38.0/just-1.38.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:c68947147e10a78467ffbfbb8d9ce6163eba515b9429b5b68f286e260b63bfd2"
+    },
+    "1.38.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.38.0/just-1.38.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:c803e67fd7b0af01667bd537197bc3df319938eacf9e8d51a441c71d03035bb5"
+    },
+    "1.39.0-aarch64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.39.0/just-1.39.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:ab1e1fc95bc3cd11ee9ecc2c764abbd60f6d4f99dad05be78276e5487e959051"
+    },
+    "1.39.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.39.0/just-1.39.0-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:c29402d349d541af5421335eda2ba08613490e31b35fd5b59cf923f0182fae70"
+    },
+    "1.39.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.39.0/just-1.39.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:f1b9acdb4374983539c765d60374350932527df807b25975e05abb152c9021e7"
+    },
+    "1.39.0-x86_64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.39.0/just-1.39.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:6c786ac5646e643cc21e4d7d2f5da12b690a54c32d35307224db34879344ad4c"
+    },
+    "1.39.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.39.0/just-1.39.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:b99304df08fdafaa2ea92714a0696727f7ff0cb8dd02527095aeb4419e5f6de9"
+    },
+    "1.39.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.39.0/just-1.39.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:1c53fa85a8c021ce7b19814e1a5e1dc0aa10c04bddca75196f7ab6db6130d2cd"
+    },
+    "1.40.0-aarch64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.40.0/just-1.40.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:0fb2401a46409bdf574f42f92df0418934166032ec2bcb0fc7919b7664fdcc01"
+    },
+    "1.40.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.40.0/just-1.40.0-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:e15ed58a72bab17761302d523f2798adaa1e88c0402037aa9eec56794646d4aa"
+    },
+    "1.40.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.40.0/just-1.40.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:d065d0df1a1f99529869fba8a5b3e0a25c1795b9007099b00dfabe29c7c1f7b6"
+    },
+    "1.40.0-x86_64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.40.0/just-1.40.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:83e6b5380dc08f2d839f358327c9bb93184edf451955111ba6222be59ed1f172"
+    },
+    "1.40.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.40.0/just-1.40.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:50d7c9b3ef3e38169bb62020cf8b091ac55e989c862fb0dde8af5a9b2505526a"
+    },
+    "1.40.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.40.0/just-1.40.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:181b91d0ceebe8a57723fb648ed2ce1a44d849438ce2e658339df4f8db5f1263"
+    },
+    "1.41.0-aarch64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.41.0/just-1.41.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:732c016a5d4bc07f0dae0dc6d1e3750d1306ef4520c6b2ec6d5a638470f94327"
+    },
+    "1.41.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.41.0/just-1.41.0-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:a49d09c09be9efef8a8c8aafe2dafd1c7cee1d149c19e4aa078a7eff0bdc7090"
+    },
+    "1.41.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.41.0/just-1.41.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:26afe17813840a26ffac6bdad1e9689d44359dbc30101c3c80c965c6550e6be6"
+    },
+    "1.41.0-x86_64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.41.0/just-1.41.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:c0c2550a437e8854171a2aea328c7f3cc98bd664f77774af6f146b313fc3e53f"
+    },
+    "1.41.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.41.0/just-1.41.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:7a64efe8ce126fc45ab7418ef2013b8c52cd387d59de5207bd857ca9e7f197eb"
+    },
+    "1.41.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.41.0/just-1.41.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:9d794c80727b28f549e9237ec0c01870794a36afeadea0864b5c2dbb32dd1fdb"
+    },
+    "1.42.0-aarch64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.42.0/just-1.42.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:5e006af61c8770e01b14002549e2b57b52a3e35d3e5bac2b2470653a8b2e15bd"
+    },
+    "1.42.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.42.0/just-1.42.0-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:ca0f47d5344587b179aa5e24973b12faff5c77afcc3b29fab4f94969df1c3384"
+    },
+    "1.42.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.42.0/just-1.42.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:dbe7a549b1441a007eeb81232737352a5316339c258cd3a200ac0e89b5c8cc1c"
+    },
+    "1.42.0-x86_64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.42.0/just-1.42.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:7888c26b777cff23d3dc1bd478fa1e2fb6d17d3b302004014ad3ac251ca7a354"
+    },
+    "1.42.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.42.0/just-1.42.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:36661aef54d3625386adc8bea404e14c2909516667363cb957917d824ec58a0d"
+    },
+    "1.42.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.42.0/just-1.42.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:50b95beb36ac2faf19c40bb9d12a1aacb12b9b4b7a98af151d358e700feb2e8a"
+    },
+    "1.42.1-aarch64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.42.1/just-1.42.1-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:9ceb13235e6b86bee17fb4e90be498fa899a98d972e301bb4fa17099dd5367d5"
+    },
+    "1.42.1-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.42.1/just-1.42.1-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:8dad1e579301d9d3ee3d0f9ece8985c536b166736aec311b4af3e42b5777b77f"
+    },
+    "1.42.1-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.42.1/just-1.42.1-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:2dafc61f9181743faac79a775e0cced4a05174851d9366aab3bc623089fbdb60"
+    },
+    "1.42.1-x86_64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.42.1/just-1.42.1-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:91f31906f26acfc13cb57abddaf091876331efed6dfbf7b53bd507d1e9eed8ec"
+    },
+    "1.42.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.42.1/just-1.42.1-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:3c7c6a55d5866936009a5ee289faaf81cb5300b7498c563cc4827a59b4ae2c5a"
+    },
+    "1.42.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.42.1/just-1.42.1-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:079b2bba3d6299a5875f591fd5d14477de03d21aabd19c8c75c3d6802df1eb08"
+    },
+    "1.42.2-aarch64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.42.2/just-1.42.2-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:396570054711db93ffa1b216f54608ba37d98539a2fe7ddacbb0041dad20e738"
+    },
+    "1.42.2-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.42.2/just-1.42.2-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:9fee4ea5254630cb4c00a401a94e4dad65294d9596efd15d13c55e2bbd011fbf"
+    },
+    "1.42.2-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.42.2/just-1.42.2-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:e75c611406ad9bc9ac8513a6212f68b2d2cd9c08a6f2c1e2cfbd3fa3f21c9378"
+    },
+    "1.42.2-x86_64-apple-darwin": {
+      "url": "https://github.com/casey/just/releases/download/1.42.2/just-1.42.2-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:08af9277dcd6da43ffb807ddd0ad6df7f7c276b116536f5a8a39a3bd5d82cd4a"
+    },
+    "1.42.2-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/casey/just/releases/download/1.42.2/just-1.42.2-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:71556376af825617722a39bc536192dfbc6128dcaf6fbc9a9a43fee8c2cb2e7b"
+    },
+    "1.42.2-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/casey/just/releases/download/1.42.2/just-1.42.2-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:ffb0f39509ef771b353060d40b3557a577549f25384c11132f90affcb0aeba09"
     }
+  }
 }

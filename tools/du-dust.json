@@ -1,0 +1,446 @@
+{
+  "name": "dust",
+  "repo": "https://github.com/bootandy/dust",
+  "releases": {
+    "0.8.5-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.5/dust-v0.8.5-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:6398c22098bc3cb139e8cb9da1f31299f8e7e3f28940015575be9f3254e88e11"
+    },
+    "0.8.5-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.5/dust-v0.8.5-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:5db72f2ee97dc8f44febfef261c8794fea5feed5a12ac04714b3598fe607d14b"
+    },
+    "0.8.5-i686-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.5/dust-v0.8.5-i686-pc-windows-gnu.zip",
+      "hash": "sha256:c813970f80ac39f06949fc4c67c17b54865e0e5b4637424d936299957b009495"
+    },
+    "0.8.5-i686-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.5/dust-v0.8.5-i686-pc-windows-msvc.zip",
+      "hash": "sha256:c7b4eee308e844ea9e793dcea9192957be969822323e31fc36e69ca93f46cab1"
+    },
+    "0.8.5-i686-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.5/dust-v0.8.5-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:06a717a3f6bc67cf348c2fb480231070be94e048b81e27eaead1de72ee212aed"
+    },
+    "0.8.5-i686-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.5/dust-v0.8.5-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:3bd6cef82868d38e77271dbe361de12fa76fe6dae5cc5771550f8e61495de3f0"
+    },
+    "0.8.5-x86_64-apple-darwin": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.5/dust-v0.8.5-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:6bd0d979693e1d3cb6206935eba803968f9ab50e57162e84f7aa7dccee139b0b"
+    },
+    "0.8.5-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.5/dust-v0.8.5-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:ed854be015da144a3eb6047d88ca12a3a16f2a8c278f12d01453e22c1d240070"
+    },
+    "0.8.5-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.5/dust-v0.8.5-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:c7314229a2ed95fdb872b6b23fcd5e3b684902255271486e34d9f3f1ea68165e"
+    },
+    "0.8.5-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.5/dust-v0.8.5-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:eeeb06b2f560c611338368373c75e9857b111b9ee43f49770ee8736da761df98"
+    },
+    "0.8.5-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.5/dust-v0.8.5-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:fa75644d3f85c564f65bc2a4f6d723b7434739a5ebcb1934888499f72dc19f42"
+    },
+    "0.8.6-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.6/dust-v0.8.6-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:beae0cdafcc8e7fce469ba2e5b63c1ced8d15487da031d6b71fb3b4884747808"
+    },
+    "0.8.6-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.6/dust-v0.8.6-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:dbf4d5d8828597ff06bc00f0480bef1efe736983f6c8373d384ffd05c88feac6"
+    },
+    "0.8.6-i686-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.6/dust-v0.8.6-i686-pc-windows-gnu.zip",
+      "hash": "sha256:4d655425be8d2ead5e4cca92caf206ace084a6619e253143fe346c6eeeeffa8e"
+    },
+    "0.8.6-i686-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.6/dust-v0.8.6-i686-pc-windows-msvc.zip",
+      "hash": "sha256:f77f02c1dc2125bc389eb7e8fb04ea3dc511770eda4b20fad55908d45087d8f5"
+    },
+    "0.8.6-i686-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.6/dust-v0.8.6-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:d49a1e6a2b72bc583b68488ba3aaa55a472245ff9b2d5b774799e8c25a604e82"
+    },
+    "0.8.6-i686-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.6/dust-v0.8.6-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:e0645a86082de475c53aa243b8c70ec26ff810e54cd76eca00851dd47cecb4d1"
+    },
+    "0.8.6-x86_64-apple-darwin": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.6/dust-v0.8.6-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:82310ca3e4f4f9e4d8d0aad29116e5dde4cda39a571ccb157eaa5ff0441d907b"
+    },
+    "0.8.6-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.6/dust-v0.8.6-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:c1c8469b0ac1bf61586b334e373507813c53f43f53b1232b06b5ffafe6eee5a1"
+    },
+    "0.8.6-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.6/dust-v0.8.6-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:8eafe818ba2e2fe86ef02e9c67ccf7977d71f6614c3ca370429cd89b1bce83fc"
+    },
+    "0.8.6-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.6/dust-v0.8.6-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:55eb48d006a8d2997721d1caf1f7701a904037b62c40884ceac5f61c49189077"
+    },
+    "0.8.6-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.8.6/dust-v0.8.6-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:06e9bcac22ba29e74395dde046cfd5b260cf6fabab48e1ed3dfc017b4e8bada7"
+    },
+    "0.9.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:0aa0497912a12b421a3442aaca65dcedbf37dba034727f7f8a00d404e51d7275"
+    },
+    "0.9.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:4f6bd2a5443f16c695f2e781f8f53f3f00fe2c6f48e75b440581c5ef7a50bd04"
+    },
+    "0.9.0-i686-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-i686-pc-windows-gnu.zip",
+      "hash": "sha256:19bda4a12084be0a0adfd2ab1bfcb8e9b8dcc6cd0e781b85e926e731de8af848"
+    },
+    "0.9.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:8b6149e5dfa8aa5f26618e71360a4c4ce5ee14effc51827d5234adedae31e3c6"
+    },
+    "0.9.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:a4d158355fe75d155163a202b829dc54f6b3e0564aa68fde1322ffa8bb96a20d"
+    },
+    "0.9.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:ef7f770e6574ab12831240f372b3eb4718c9c13e5bf8052c45c509cc5b43093c"
+    },
+    "0.9.0-x86_64-apple-darwin": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:0d205a26cda2ca267a636e44284ba8e51771073e2a2d11c2e251cffd246fc2a2"
+    },
+    "0.9.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:bf100a0ff88619c46fe1a60b9d30fa718cb3a961837420021f1b361c241515b2"
+    },
+    "0.9.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:f1f4681a4306d011052399e67b9c1168bb9d363cdaefbd00a0a1260482f7fcfc"
+    },
+    "0.9.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:ce53c70f508a0bf82293bd1e3ae51c817063fa140139d4941be0724b617955da"
+    },
+    "0.9.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v0.9.0/dust-v0.9.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:abf747456195ad9ddfdc30d33da67ce00692cb84a810871df0234b68565d201a"
+    },
+    "1.0.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.0.0/dust-v1.0.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:83d04601dd836740b09e086f62f075f9d56149e685ca28c459fedb2e7548dac7"
+    },
+    "1.0.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.0.0/dust-v1.0.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:cfc952f6f74aff3262905179d4e2fbe28a7885e681012a414529a400c438ed8a"
+    },
+    "1.0.0-i686-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.0.0/dust-v1.0.0-i686-pc-windows-gnu.zip",
+      "hash": "sha256:cdf7bcedddaad92591ae0349a499d211f5a5f7a6e67c56ddf3e90a00035f5795"
+    },
+    "1.0.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.0.0/dust-v1.0.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:7222a5e0c47555832fe0229ab11ef241f2b61b536716143e09ef4f7e47cb9fc0"
+    },
+    "1.0.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.0.0/dust-v1.0.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:904a1804325211e1b8aed9b0038fe33248a81dd733dd4b31c3e2e795de8bcc93"
+    },
+    "1.0.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.0.0/dust-v1.0.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:2462c32b0773bdd4f7d97d5556046807b0e25abc3f20d06c1da6c3e1d64d00b6"
+    },
+    "1.0.0-x86_64-apple-darwin": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.0.0/dust-v1.0.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:32b26cb3ba64c6b936371743c3200c3fcf75a5a31ab2d8aa5c297f1a60265e7d"
+    },
+    "1.0.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.0.0/dust-v1.0.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:f5e2ceb74d232f01d4fd07ca5f15920e968b6e9407392a08fba8c914869f5dd6"
+    },
+    "1.0.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.0.0/dust-v1.0.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:95f253cb769abe4fc41209f05264f97c5bc380b757c8c769e08d50bc5ec8449b"
+    },
+    "1.0.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.0.0/dust-v1.0.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:db38632f6fac611c13f562971ee983a87aaa8434e180adce3255d2b3aa696915"
+    },
+    "1.0.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.0.0/dust-v1.0.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:ee8a4bb8d587df5040ce9d4eccac0baa1f1c603db0b4c59a7fe8545f3ce7cbec"
+    },
+    "1.1.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.0/dust-v1.1.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:e840e8b8ce27b76a7a39bf7eecf0d76c21483ddf910707cc642e569ba6c8f960"
+    },
+    "1.1.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.0/dust-v1.1.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:8a0697a849ec7cee8732c87087e53150a16fcbec1a959c6452f69b3a413b2191"
+    },
+    "1.1.0-i686-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.0/dust-v1.1.0-i686-pc-windows-gnu.zip",
+      "hash": "sha256:e53015cfc325cd6f6534a0cdc94afe178d08f24891047c91ae0047b977ad1fac"
+    },
+    "1.1.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.0/dust-v1.1.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:2093cd1d2fd9747b07560632837bc3005879674f35898a8b658c6eb1a64731ef"
+    },
+    "1.1.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.0/dust-v1.1.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:5bfec7251cbf51107f022d63fffa3ab5451cc4e78f61a31ab57e6ffc6c7929ad"
+    },
+    "1.1.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.0/dust-v1.1.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:e7a2ed08bd7cd2df3399815dea053f8cdfa92a1dc3edddf23c3bd8ba3b06200d"
+    },
+    "1.1.0-x86_64-apple-darwin": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.0/dust-v1.1.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:af75b00e5a9b9cd1d1a6b162cd281dbcb0c4f9035afa439c7b939ea61d844f5b"
+    },
+    "1.1.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.0/dust-v1.1.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:88ab4b819d21ecc804a74d86ee8587412159e3a3d256f884b92341ee87041993"
+    },
+    "1.1.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.0/dust-v1.1.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:7fe34e5f94afe84393ce2487db7f4524e9c1cfdd5cd547ef30210202ec3ae11f"
+    },
+    "1.1.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.0/dust-v1.1.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:77e1a98cb92c0ab1da6a8673f0e1f6f4a0521ccb1fc641096fa82d7949cead64"
+    },
+    "1.1.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.0/dust-v1.1.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:fe97a761b52d2125be42a0f33e702adbbcdfeb4487340c546d06ecb69c3c1b22"
+    },
+    "1.1.1-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.1/dust-v1.1.1-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:ec2ca52e4013b25929100cb66fd872918e9c8abd36c7efa0315df0015534174d"
+    },
+    "1.1.1-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.1/dust-v1.1.1-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:a100dd63fd992a830cb9b5c3f42b1d4053a8717726cacf50db3bf29def0c34ff"
+    },
+    "1.1.1-i686-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.1/dust-v1.1.1-i686-pc-windows-gnu.zip",
+      "hash": "sha256:7eca1d282bf1b9a4470593f5ecb6690f108b5995dcad2c715c7fbda3d1914b9a"
+    },
+    "1.1.1-i686-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.1/dust-v1.1.1-i686-pc-windows-msvc.zip",
+      "hash": "sha256:801c1da187134dba2cd1ed08d8b142fd6ae813f51c57abc4a398973e22ad65f4"
+    },
+    "1.1.1-i686-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.1/dust-v1.1.1-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:c1bbfe6367953f98507e0782ebedbc2286978645e77874782c2ad089eb7f0877"
+    },
+    "1.1.1-i686-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.1/dust-v1.1.1-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:abe11c32b1b22e8d4fb0d382e10b52187d71f8468079aad49c32cf61cff6a5a2"
+    },
+    "1.1.1-x86_64-apple-darwin": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.1/dust-v1.1.1-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:dffbe8474f18914c368fdf25b4331a58f4f1502010f3bac1805a0e3e5316d793"
+    },
+    "1.1.1-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.1/dust-v1.1.1-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:ead8eb39d931f3bb0ed23d8e58a27c583161d665fb98a5975d456059810602a9"
+    },
+    "1.1.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.1/dust-v1.1.1-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:022487b773a7e5eba15a407029d9b61d3b1796d2b8fa0f555df764122d42001a"
+    },
+    "1.1.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.1/dust-v1.1.1-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:8eaffb4d5b861f9afc0e19970ccd392833a7881dc31da9b6de55250f3d33a69e"
+    },
+    "1.1.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.1/dust-v1.1.1-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:4d0e7f3e39ce85e98cc69260ab6f40e460a455cd8575af1ba70d14a2940ae553"
+    },
+    "1.1.2-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.2/dust-v1.1.2-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:7fb053bf5b886b48577643a707adc72dadc8fdbcc9174f9583795c6282a46290"
+    },
+    "1.1.2-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.2/dust-v1.1.2-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:c9a5c9271edb836c5d035f7970de67ae3369c19fb0ff7222f44cd71fb2e4caf2"
+    },
+    "1.1.2-i686-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.2/dust-v1.1.2-i686-pc-windows-gnu.zip",
+      "hash": "sha256:b800b70b5b281e1843208716838aca6b6f0b1d6e4914fad67d22bcaf25881e76"
+    },
+    "1.1.2-i686-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.2/dust-v1.1.2-i686-pc-windows-msvc.zip",
+      "hash": "sha256:eda51b0e5892f98fcc706bf14a93b546116e0e6986d57586edc36e609ec2508e"
+    },
+    "1.1.2-i686-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.2/dust-v1.1.2-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:c2e1d2b719739180f6c2055b1e35c40511e36f3278b0df1935cd0173bb68876e"
+    },
+    "1.1.2-i686-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.2/dust-v1.1.2-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:85703c933b2ad575610b8235bd14560ffad6cc46bdb00e21c16ead940f222053"
+    },
+    "1.1.2-x86_64-apple-darwin": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.2/dust-v1.1.2-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:b359cafe61d22f8999e7dd57a2e8006428165358885ca4ed155f88ebf8437f90"
+    },
+    "1.1.2-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.2/dust-v1.1.2-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:30e11eb278e8b843a8ebf844041415bca5b2a60bd9375c4f7a74f6911840dbac"
+    },
+    "1.1.2-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.2/dust-v1.1.2-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:95bba70721c2ccfb6005c4d61e517bf7f4cb84bdacf868e6d3ff327a483fc65b"
+    },
+    "1.1.2-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.2/dust-v1.1.2-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:297b7ee84ab2f49bde54ffe47ce8656fd4937ce576eef7f627294bd1a0d70211"
+    },
+    "1.1.2-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.1.2/dust-v1.1.2-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:88c1cbcd7629b42462b424f3cc248e4be226adfdbf613597235a01f663291b7d"
+    },
+    "1.2.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:50fe6f36c46fcb26cbd50856863e44df7040f6f6cd5790a975558865a5a1dfec"
+    },
+    "1.2.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:8c828f1c257728080f438b7ac2e7bb5cb76a14d8fcdec579aa80aa74ae18ee9f"
+    },
+    "1.2.0-i686-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-i686-pc-windows-gnu.zip",
+      "hash": "sha256:d9ca9aff99a416c951bff2e253d8b125de10ca0440d98f3135c1874aebc6022c"
+    },
+    "1.2.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:0d36c482200cc81a71123142b29395cad040b4f529f1602dfa110f3bc72b62a1"
+    },
+    "1.2.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:724b156b79e345f2899c4919047879f200b417dbbcdbfca9bb58cfbf5586669b"
+    },
+    "1.2.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:0e733ccabd5dcb83e962e15a9450f3a2486c33e84e94000d0bfe8dde0d46379e"
+    },
+    "1.2.0-x86_64-apple-darwin": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:f9955594d9ab15509116da41d5ebe000bb288d630e5f41d77ac2ac8fdc50555f"
+    },
+    "1.2.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:f37013dc0d5614415b43a491a39b2f8d605428d1eda1264e3753f54517042da0"
+    },
+    "1.2.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:833a2a5b81783a66d83624e80c6c2378843dab1ade1fb5da5dea73e218690be5"
+    },
+    "1.2.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:c4bac8dfe91311ba0794b393ea0ec4a0eaa838bf974c6dc353dac4cd1140dc9a"
+    },
+    "1.2.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:aae4550f35b5060d3571642ef472a26a5dc899dd594d7a514ceb0022cf9d73a5"
+    },
+    "1.2.1-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:331ca615f1e3df1b7a68cd165e1bde8f4752703f01ecb83ce2cada6f8787e47b"
+    },
+    "1.2.1-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:9d0577a30df143e39759098a264d51d1c5ecb5181cee2bb9078fe4fdefed4084"
+    },
+    "1.2.1-i686-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-i686-pc-windows-gnu.zip",
+      "hash": "sha256:e606035f6bb70c30525df774d4575805e4128ca5e72a9f52fc020d0487356b17"
+    },
+    "1.2.1-i686-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-i686-pc-windows-msvc.zip",
+      "hash": "sha256:acc067a3d0c266d6c940cfdf85221267a6cc967351cef9301e7f9167e7aecef7"
+    },
+    "1.2.1-i686-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:8c2e962fd970d4e229a3fe8e5465b398543748f88425647e1ab4313bf85a5745"
+    },
+    "1.2.1-i686-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:8527f80579a68ba11046b57c4e46bc346b06e76c7b5c5f78cafe4a8468ece502"
+    },
+    "1.2.1-x86_64-apple-darwin": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:dd1e013bba43394e73f2a12ce4c6bdf6023565623b66d77fea3472510449a8b1"
+    },
+    "1.2.1-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:1f031683f90a79516e8a124c468941e46530d18990eb2b7b6ee765c791ef0566"
+    },
+    "1.2.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:01c7cf0f5b70318eb25bec9b76328915b0c4546671da642d9fe9b244ac349136"
+    },
+    "1.2.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:686d633d3120a80f563a52545b913e73b938ff8cf09a356ef689fbf867ea6aad"
+    },
+    "1.2.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:15716b5c0df538f30025d2db7c509fc6d5540f4ecc1eaf555e0c639c67ed7abf"
+    },
+    "1.2.2-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.2/dust-v1.2.2-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:f6f3f5569ef8bf5d0a3e13460f30a7adc7fe149462f15a17967ac67947b105b9"
+    },
+    "1.2.2-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.2/dust-v1.2.2-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:704b5f229d525e4b18a716007637b382dec0ce3e81807188e77428325938cb2e"
+    },
+    "1.2.2-i686-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.2/dust-v1.2.2-i686-pc-windows-gnu.zip",
+      "hash": "sha256:fbf32eaca9e50fc063fcf9c2b434098ca5cf6f24a647cfdadf2f49b29c81c7e8"
+    },
+    "1.2.2-i686-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.2/dust-v1.2.2-i686-pc-windows-msvc.zip",
+      "hash": "sha256:d42002585f9bc50900bd09e9edd95274891961909c51f4057619ed35c3f2d647"
+    },
+    "1.2.2-i686-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.2/dust-v1.2.2-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:b1ca1bd6ebd338bbc82c6b163973207506eb877fa19846a8f3ca0e26d57de257"
+    },
+    "1.2.2-i686-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.2/dust-v1.2.2-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:381bc63d7e3c60686911dd00c2f62c219233e96703e8901502b9e7c74fa817c0"
+    },
+    "1.2.2-x86_64-apple-darwin": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.2/dust-v1.2.2-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:f13dcfcd06230a2ce95f39b15f42314934b7667ff573bd482a499d5a959c795d"
+    },
+    "1.2.2-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.2/dust-v1.2.2-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:e69649dfc111eccab00aa12b5bed580b97c6f42ae6370449cffbb9f228f7f118"
+    },
+    "1.2.2-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.2/dust-v1.2.2-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:ea3686dbc744327dadc3464c0b1d04001a8b729ca28d59f9009e31f21bcbaeac"
+    },
+    "1.2.2-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.2/dust-v1.2.2-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:c1472fb0336faf900af6671e85f1141924d6b6d0774d6b1e561ef5191f13034e"
+    },
+    "1.2.2-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/bootandy/dust/releases/download/v1.2.2/dust-v1.2.2-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:f170ecc426dd807018fc4155174070387af16435be7cabe4eed0b438a7cb7ca0"
+    }
+  }
+}

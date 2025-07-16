@@ -1,0 +1,266 @@
+{
+  "name": "delta",
+  "repo": "https://github.com/dandavison/delta",
+  "releases": {
+    "0.13.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.13.0/delta-0.13.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:95e3f7e2118160e5f91b98551bc6fdd628a05e1f49ac643a0ce2bf58d3bb2f05"
+    },
+    "0.13.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.13.0/delta-0.13.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:7dd973f417cc89b663d0f94751f30684983b31a9f073a0e3040067516d258a02"
+    },
+    "0.13.0-x86_64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.13.0/delta-0.13.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:68392c4a7f03931ca624de05239e4ce39e64198fb045add63d961d4b2cf2e9cf"
+    },
+    "0.13.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.13.0/delta-0.13.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:ee8f3856e4f4e6ce079ce23e9eb665e38833c518f47d9b7565b315abe9283161"
+    },
+    "0.13.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.13.0/delta-0.13.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:69ddecc92e86b77016692589c094bf3a32e7cb8a0dfd9f97f253c173cce830e9"
+    },
+    "0.13.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.13.0/delta-0.13.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:c54d1f9f17fbd9d6a2a1d3165b42a46327091eb69ca7341478b132086434c12a"
+    },
+    "0.14.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.14.0/delta-0.14.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:3c2579f1b12dd4bce301b27de84796a8a131513157748809a5a99efe2ebf9d65"
+    },
+    "0.14.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.14.0/delta-0.14.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:1fad6a4ed43dc89b2dd5196585e1d4951770f68c084b2a79e182ccfa8277d73a"
+    },
+    "0.14.0-x86_64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.14.0/delta-0.14.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:7dfa3b25c793de6cf58316c3c3aa90cdd4f856da837c35775e1e49b753deba53"
+    },
+    "0.14.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.14.0/delta-0.14.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:9410455a4f80210ba718d745aea16ab0d88e089e18d51195cf31dbca58d80690"
+    },
+    "0.14.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.14.0/delta-0.14.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:a24e3994b798aa46b5415481bf6a77ca65c51da70f3a199ce2db279c3e31caee"
+    },
+    "0.14.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.14.0/delta-0.14.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:ecfbc3e4508646ec985fbcb5a3a89480f25f0c044d02b2308c2053aba8f42ef9"
+    },
+    "0.15.0-aarch64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.0/delta-0.15.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:39d81dc65ff76ec882e95bd31a6016ca56c3f4902045925bb25644c754e6bbe5"
+    },
+    "0.15.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.0/delta-0.15.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:b1d0393ad478f127b6a7b62568b95c9fa1d2911d5c85d330f598917b7fd1e1fe"
+    },
+    "0.15.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.0/delta-0.15.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:f59160a09a3586faec1ddba8ff4ef777f9b9352304591522e89f17f75630b55e"
+    },
+    "0.15.0-x86_64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.0/delta-0.15.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:ca97e1216f30f31ca08e4dafa879e03aa8d0f5761d851c47b2c42295953e045f"
+    },
+    "0.15.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.0/delta-0.15.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:c0851109ac3002a27d9c2a9c723d668468d955acb6fa7e970c3438e13ad47199"
+    },
+    "0.15.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.0/delta-0.15.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:12f16a89d0b4ff703f8905411251406bd9828e3383189d2a4e1c0d69934fb6ea"
+    },
+    "0.15.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.0/delta-0.15.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:0887113c9f49ccc93d8afaa5cf0e33b8d95c5d5183a4552c5899b1c36c6ec520"
+    },
+    "0.15.1-aarch64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.1/delta-0.15.1-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:ba06f9709b3e8014210bf4461b60904805b1d06f09fca8df641e92cb8636cb17"
+    },
+    "0.15.1-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.1/delta-0.15.1-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:ab3b7d7b87c679a9cb464a6b8731f53d2e36b39268d63a4f8ed3e141efc3915d"
+    },
+    "0.15.1-i686-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.1/delta-0.15.1-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:6f37d14badc55454a7095793255b826d7f846c1b3fe263e40b1c1c2efdbf5918"
+    },
+    "0.15.1-x86_64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.1/delta-0.15.1-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:a7abcdbf9977bbc8bf5bead8bef10b71d19719d52c6f0ebea6b5fb0deced2b2a"
+    },
+    "0.15.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.1/delta-0.15.1-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:4ba69ba67eff330b5479873704a0ec86820671c735f06998697e7d0f3e7335fa"
+    },
+    "0.15.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.1/delta-0.15.1-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:9d9b42a7b9ea554b4bf123f245d5f2014478ac87ddc508744a3f34f5c2d512c7"
+    },
+    "0.15.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.15.1/delta-0.15.1-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:f2499f34a4355a808c084764dcb37b613af4d45af28d8f8fb5a0739eeb2839f9"
+    },
+    "0.16.4-aarch64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.16.4/delta-0.16.4-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:57d68d17e7a4bd6389b74fa381703a76c47081d6d7f86eef6b0adeccf62abda3"
+    },
+    "0.16.4-x86_64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.16.4/delta-0.16.4-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:fcf86ef6ba67dbf4a68652069bb797da038ddece06756176b06f0068125c664b"
+    },
+    "0.16.4-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.16.4/delta-0.16.4-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:aac6ee986356c6dd1f01d35b21c2953519a78a37c7b69c6dd3fc91398efec805"
+    },
+    "0.16.4-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.16.4/delta-0.16.4-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:74ee81598b041c919edaedc9f011ce334ba469ebe76b4e91b5ce7256eb906a89"
+    },
+    "0.16.5-aarch64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.16.5/delta-0.16.5-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:3fb94b4440bd5f1743675953e479bf0702bd5307472b2628d1c46b91daccbbad"
+    },
+    "0.16.5-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.16.5/delta-0.16.5-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:8dd1a8540ecac0ef746ae06a8ec4c79c67041bcb70c21306f630331d4e5fd381"
+    },
+    "0.16.5-i686-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.16.5/delta-0.16.5-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:c9fcaff7d5e6bd77412619fb4e136aea89e64e26edeeb20175ea381ef84dd04e"
+    },
+    "0.16.5-x86_64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.16.5/delta-0.16.5-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:b629ff7ecb0aab450b6e10e8335e18cb9c27cd823dc09591cea435715d328a5e"
+    },
+    "0.16.5-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.16.5/delta-0.16.5-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:446d9e498cb11c4eb63966f70f327c29c4954ffd196439cc45e2ff1ea6969376"
+    },
+    "0.16.5-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.16.5/delta-0.16.5-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:d291ca0e872b87c6a63b7f0ffc8b6b004a665a4894557b678e7e2da5b86a6c96"
+    },
+    "0.16.5-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.16.5/delta-0.16.5-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:737d318ab15d4ca68e3bdb0753867d0d3944ff78d37fc44c79941104fbbdbb12"
+    },
+    "0.17.0-aarch64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.17.0/delta-0.17.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:2c62f44345e86ac12f75c097d0a5344b4aa90827d5e75dfcfe3fe843f51bb3cb"
+    },
+    "0.17.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.17.0/delta-0.17.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:8318bb267ab3a01f4e7b9480c4c3b2a5895c0287abfc5586306f5a2f2825882b"
+    },
+    "0.17.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.17.0/delta-0.17.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:55f88631e2e30f9d353d240e16a545575fda86d61249421307fd2bf3bcdb6c29"
+    },
+    "0.17.0-x86_64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.17.0/delta-0.17.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:e8b8107aa0725b7a0deee556c05bb655846f0f49bb8a8ec44cb1f78d4a3274fe"
+    },
+    "0.17.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.17.0/delta-0.17.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:c3689af10f95c764bec75f0d42d3dfa7439ea2bc4d0881f1f8200e8f032081ee"
+    },
+    "0.17.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.17.0/delta-0.17.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:95a9c63ff0db00b25ddcbb9cda9c7f89d4cc5fe1542dbd68b42d3a7441acf6e8"
+    },
+    "0.17.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.17.0/delta-0.17.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:0cb2c2e196a78c84e47c303119ad561d3d4debfc8cc93d3ab5ae866fb7efd126"
+    },
+    "0.18.0-aarch64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.0/delta-0.18.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:5e5fbd0cb20c6834fee4540c3ea44c7c832a2ed3926aa0c112945af6a60240aa"
+    },
+    "0.18.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.0/delta-0.18.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:25f14c6cdbaffae45fad127011141128251ed1c5ad86dffcdad3532f343d71cf"
+    },
+    "0.18.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.0/delta-0.18.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:c2826a6ec098c3dcdda435d14bdf65fdd3e9b22ae5800a501501de929b1eeeb0"
+    },
+    "0.18.0-x86_64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.0/delta-0.18.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:b9c1bb15395a6c91c0131040b7dad9d6980822117451bc1212387eeac017302a"
+    },
+    "0.18.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.0/delta-0.18.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:e1de841a7541d6aabdfd954cb18e3ff1eda8145add6cff043ac391c69bd69eed"
+    },
+    "0.18.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.0/delta-0.18.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:e99200f2e6f5962d9c82d1392f1d4c8af37607fc2a57ea4ff1c00bc666250a12"
+    },
+    "0.18.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.0/delta-0.18.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:b79086eab8e5e58fda8bf4b5eb605e2bece5b4575fee1166cba0abf8459857d7"
+    },
+    "0.18.1-aarch64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.1/delta-0.18.1-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:77759ef57ac289b696d66670926b85c5c3dcec5171795541b89d3ccb3a976c34"
+    },
+    "0.18.1-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.1/delta-0.18.1-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:fa0cd8d7580c8d719ae225049f5ef7234e263f88a8703df38c1162f0c4f098a8"
+    },
+    "0.18.1-i686-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.1/delta-0.18.1-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:12845f5ba830132a1f4db03d5a055b2988099880c0866d56f4fd5919754d84a8"
+    },
+    "0.18.1-x86_64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.1/delta-0.18.1-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:c77f95269eb1d10e433012a8025d4d736e4fb36d1978fe94087fcb63e25df49b"
+    },
+    "0.18.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.1/delta-0.18.1-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:50cb520f0b3620f2626220e1d1a5cbf733add032948b2dec7f06849b5bb15a30"
+    },
+    "0.18.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.1/delta-0.18.1-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:b1466fc77d0018148da9d1c12fbe1d3dd1281958900278a12ce2d3e37dfdf885"
+    },
+    "0.18.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.1/delta-0.18.1-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:2f39630cb1ae1d40414d33e8c4e90344045a20a4e42981a464ed5a48726a4820"
+    },
+    "0.18.2-aarch64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.2/delta-0.18.2-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:6ba38dce9f91ee1b9a24aa4aede1db7195258fe176c3f8276ae2d4457d8170a0"
+    },
+    "0.18.2-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.2/delta-0.18.2-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:adf7674086daa4582f598f74ce9caa6b70c1ba8f4a57d2911499b37826b014f9"
+    },
+    "0.18.2-i686-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.2/delta-0.18.2-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:3da4353b2f06ad48cedee46f3b5da04b1f09431b8ff82a26e974e27d2a472c66"
+    },
+    "0.18.2-x86_64-apple-darwin": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.2/delta-0.18.2-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:e9b5c4a9e73d2119c687e074f0d97f188e30e5fe8ae0e6d455755f74bb5cc0cf"
+    },
+    "0.18.2-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.2/delta-0.18.2-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:6ea59864091b4cfca89d9ee38388ff1a3ccdc8244b6e1cdd5201259de89b0b06"
+    },
+    "0.18.2-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.2/delta-0.18.2-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:99607c43238e11a77fe90a914d8c2d64961aff84b60b8186c1b5691b39955b0f"
+    },
+    "0.18.2-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/dandavison/delta/releases/download/0.18.2/delta-0.18.2-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:b7ea845004762358a00ef9127dd9fd723e333c7e4b9cb1da220c3909372310ee"
+    }
+  }
+}

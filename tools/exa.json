@@ -1,0 +1,50 @@
+{
+  "name": "exa",
+  "repo": "https://github.com/ogham/exa",
+  "releases": {
+    "0.10.0-x86_64-musl-v0.10.0": {
+      "url": "https://github.com/ogham/exa/releases/download/v0.10.0/exa-linux-x86_64-musl-v0.10.0.zip",
+      "hash": "sha256:3e8473062e025055dde151955eb29b2cd6e1cdce8e4710ebfa41432e22f7416d"
+    },
+    "0.10.0-x86_64-v0.10.0": {
+      "url": "https://github.com/ogham/exa/releases/download/v0.10.0/exa-macos-x86_64-v0.10.0.zip",
+      "hash": "sha256:0621d43e832e630fe246e0903cfd41a91477f4abdfd0d6833b57c49f8cadda74"
+    },
+    "0.10.1-x86_64-musl-v0.10.1": {
+      "url": "https://github.com/ogham/exa/releases/download/v0.10.1/exa-linux-x86_64-musl-v0.10.1.zip",
+      "hash": "sha256:790311d6167c2b439dee253d548c8fcb67809aa6704bc2c4f2b8dd25cf6fdd31"
+    },
+    "0.10.1-x86_64-v0.10.1": {
+      "url": "https://github.com/ogham/exa/releases/download/v0.10.1/exa-macos-x86_64-v0.10.1.zip",
+      "hash": "sha256:7a77673bc5644c92e019168ebd827232aa09fae6d9790a1b6e8bdfd3eb9684bc"
+    },
+    "0.3.0-x86_64": {
+      "url": "https://github.com/ogham/exa/releases/download/v0.3.0/exa-linux-x86_64.zip",
+      "hash": "sha256:0cec5cdf34c9afe5d38c679e16ebfe639694f3fb4e8233347c15bd5a8821da5f"
+    },
+    "0.4.0-x86_64": {
+      "url": "https://github.com/ogham/exa/releases/download/v0.4.0/exa-osx-x86_64.zip",
+      "hash": "sha256:0b67c6112d393aed09ee73499f864db5688f1210e3ff4e88ab073a369dc3fabb"
+    },
+    "0.5.0-x86_64": {
+      "url": "https://github.com/ogham/exa/releases/download/v0.5.0/exa-macos-x86_64.zip",
+      "hash": "sha256:24f96b16bc576f8c6b155e416764a71c722402978b4e0703e13a1d266f10156b"
+    },
+    "0.6.0-x86_64-0.6.0": {
+      "url": "https://github.com/ogham/exa/releases/download/v0.6.0/exa-macos-x86_64-0.6.0.zip",
+      "hash": "sha256:e6445a61af9b1d80b92f2cf0663f0ca7483822c65f8f8c7c49b5b536f656d27a"
+    },
+    "0.7.0-x86_64-0.7.0": {
+      "url": "https://github.com/ogham/exa/releases/download/v0.7.0/exa-macos-x86_64-0.7.0.zip",
+      "hash": "sha256:e4ac4abadba6cfd1dc20c0b12eadc0b7410178904148eb649d5e5ddcb6f9bd13"
+    },
+    "0.8.0-x86_64-0.8.0": {
+      "url": "https://github.com/ogham/exa/releases/download/v0.8.0/exa-macos-x86_64-0.8.0.zip",
+      "hash": "sha256:e5db9b1b3142102f7f26dae5d11f745c794d45ba9c4004310df7eaed30909c41"
+    },
+    "0.9.0-x86_64-0.9.0": {
+      "url": "https://github.com/ogham/exa/releases/download/v0.9.0/exa-macos-x86_64-0.9.0.zip",
+      "hash": "sha256:254d64d8d86e9ea12723b70c53b37425e24a8f1aff6bd315ad135d87a3abf004"
+    }
+  }
+}

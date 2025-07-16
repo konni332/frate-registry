@@ -1,0 +1,374 @@
+{
+  "name": "bat",
+  "repo": "https://github.com/sharkdp/bat",
+  "releases": {
+    "0.18.2-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.2/bat-v0.18.2-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:dff807025e3426d6ffdfb797e44e2bf33cbe329a4bdc18b86aa839c67d33da8d"
+    },
+    "0.18.2-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.2/bat-v0.18.2-i686-pc-windows-msvc.zip",
+      "hash": "sha256:a50bb097d9a6706aee72a043be60fe2e7e308a66a034ecb627c7b750862926c4"
+    },
+    "0.18.2-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.2/bat-v0.18.2-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:b6f86cfa6536d536772864a38ce2dc4c39668d65c78b6f87d24450fc5b8cc9ae"
+    },
+    "0.18.2-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.2/bat-v0.18.2-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:31f21951a1e8b8ce864f7e3699cb80c899ab8097c4ba68619d35ac9fc26a9977"
+    },
+    "0.18.2-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.2/bat-v0.18.2-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:081708adb6731459f1c7d6013ab2cef3b976607bd4a8616879e895a9f44a1ae1"
+    },
+    "0.18.2-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.2/bat-v0.18.2-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:47f8de28cd0f01455324e88e356463266671c6823a4cf42597940c8ac4d88ce7"
+    },
+    "0.18.2-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.2/bat-v0.18.2-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:0c6b3f5ef61fc74f5df164955b9084a8bb863d1204a38af414aac62907c95405"
+    },
+    "0.18.2-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.2/bat-v0.18.2-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:434b01f53712b2e9dd295ff5170e713e6b8e5f235496dec78b453262b75ad2db"
+    },
+    "0.18.2-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.2/bat-v0.18.2-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:e490c360eb7e9cbb9b336f1540932bde0514ca926728c4186ee45681b09cdcbe"
+    },
+    "0.18.3-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.3/bat-v0.18.3-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:bca66e2e99e3ae38c34189daba03408eebf54c7366e987524bb1549a1539271c"
+    },
+    "0.18.3-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.3/bat-v0.18.3-i686-pc-windows-msvc.zip",
+      "hash": "sha256:8985059cc3b9e1d30abaa7f9862602b69c4fe7231523dcad3ce3d40ce1c33b37"
+    },
+    "0.18.3-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.3/bat-v0.18.3-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:32fe08b21f4e1b0e5c494f5eeda90ae04a5b8221801b2142288270d5616787dd"
+    },
+    "0.18.3-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.3/bat-v0.18.3-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:8a2725c4f45ec4fc6a867a7b1ca8179e590bca1dfceb3870100790fb27f517e2"
+    },
+    "0.18.3-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.3/bat-v0.18.3-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:c3641b5b36c5c4ec80dea50c2d9793010042ff7504f70266e4a18c6dcf0ef751"
+    },
+    "0.18.3-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.3/bat-v0.18.3-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:113ee91b2a8b6c43ee3a438bf70d850fdbe54f482bd6b8372df99a77317a96f5"
+    },
+    "0.18.3-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.3/bat-v0.18.3-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:cbb1a937e288e0ebdf7b1975cc64bd0f82209ebd6b77393302460396ddd242ab"
+    },
+    "0.18.3-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.3/bat-v0.18.3-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:44735f2a98fdf8342f343516b6a0f6e783ee1acb918e850be2096bdb805519c1"
+    },
+    "0.18.3-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.18.3/bat-v0.18.3-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:7e3529d98c991554ac971a6e632f9f966533dc930a200547ead8b4332a0d23e5"
+    },
+    "0.19.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.19.0/bat-v0.19.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:eb163e95bd05955db32900333ad8cb32b33152da150392875c2c9a1c12dea53b"
+    },
+    "0.19.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.19.0/bat-v0.19.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:c4919494e6141eb823432b7bd31e5b27284f0de7ad67fd6064064d497938c8d9"
+    },
+    "0.19.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.19.0/bat-v0.19.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:111fc81f954d3ec1923cf833cad29941a50f904aef2293105b65f910beca33e1"
+    },
+    "0.19.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.19.0/bat-v0.19.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:2f2d683e0b90a6562ecea1d9735b75f36785f1bcabed62ee4538c60b0f67b137"
+    },
+    "0.19.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.19.0/bat-v0.19.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:663df7f5c094683833c0bdde3b8a5cb1b14eebcd9accd0f688750ca9390cc610"
+    },
+    "0.19.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.19.0/bat-v0.19.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:c4d0bb3f0ff2f2998d0fc927966845657d1a7359b65895803b0b422e315ce47e"
+    },
+    "0.19.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.19.0/bat-v0.19.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:a6c52739530932a0ae372bfae69e6e3ba50f199d0846b776ab8606e05463222a"
+    },
+    "0.19.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.19.0/bat-v0.19.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:ef7b804504c9df478c59874ad947d793a8aad54e3d650b3483825d62efdcd25c"
+    },
+    "0.19.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.19.0/bat-v0.19.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:1a58c1fe3c348498f01cb9064507dee0a5a244c6a1e933995c67b97954bf7c56"
+    },
+    "0.20.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.20.0/bat-v0.20.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:1f9e1856f01351ef945a8a6fb96e23a225850dfb3cd0f318e3655c5174a51f2b"
+    },
+    "0.20.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.20.0/bat-v0.20.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:949aaed82fc42e037ec8bf9b2c3e8f2b816c1626333de34f1abb5c1fe64a4d18"
+    },
+    "0.20.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.20.0/bat-v0.20.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:30818bf7a744b79e1e9e5a27c8374996497a70fb6f26de3734925439497129aa"
+    },
+    "0.20.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.20.0/bat-v0.20.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:e48297ced9254aa1f2ed90ac4dcaad218e51f2ebd7af019d74300a74123c1f26"
+    },
+    "0.20.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.20.0/bat-v0.20.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:ba3dde7e7d954e31215ecf50f441580a8c6ee3e3002d9e2e3f5852919833f0ea"
+    },
+    "0.20.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.20.0/bat-v0.20.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:50b76255ad789050ba8c7788083086481efcff90c3a4a2bc7c161bfba27d50b0"
+    },
+    "0.20.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.20.0/bat-v0.20.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:af7be0cd0373089fb4b57be7ebed3c99a4581f16a139bab766820c5b06140507"
+    },
+    "0.20.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.20.0/bat-v0.20.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:a4a2b92f620e63ccdfc3f5d7d77a81ce6c46c1926b24d42cf385d961b92ade91"
+    },
+    "0.20.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.20.0/bat-v0.20.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:a9c977b4feb5ff264f4b6942f69e45129bf6ddff7fe566ea74c778314092fd80"
+    },
+    "0.21.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.21.0/bat-v0.21.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:697dc98cbe9727d78b7e62ef6274bd98b091a101f14e3b578b3d72ce78e89a42"
+    },
+    "0.21.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.21.0/bat-v0.21.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:e2e1d001cc2a0d6acc3dad206983aaae7c930a04e40356d2d398f2ae469e90ce"
+    },
+    "0.21.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.21.0/bat-v0.21.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:4e034f2b09c1d581f98614f4911c471ad38514a687e9838c58b8b32fe879cf82"
+    },
+    "0.21.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.21.0/bat-v0.21.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:59375b356e8eda04bde400f697cb3bee5d160a9bc0a1dbb3cf940ce02bd25182"
+    },
+    "0.21.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.21.0/bat-v0.21.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:7b0bf052aff98dbe4b5f259b0d3a8b320b5ee03fbde6a31bb0b4a08ad0ce58aa"
+    },
+    "0.21.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.21.0/bat-v0.21.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:4f86440c6c4aada3738bb0975f97754fe647a7867cae79f1ac74e4a4008d8800"
+    },
+    "0.21.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.21.0/bat-v0.21.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:56ab9be6d52d66e77a5281b7df9f9e5f6df8aae37f4686402b221764e46cb197"
+    },
+    "0.21.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.21.0/bat-v0.21.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:36efd61465a9a406069e1ccbd34c3739690607e7448baa6773f5c01d2b1a4ee1"
+    },
+    "0.21.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.21.0/bat-v0.21.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:5e6d199219578fed98483ad132f8207edc23bd072b36c22237edd51aed6b2af9"
+    },
+    "0.22.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.0/bat-v0.22.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:87cc4150dd56c9df4922cca37733a7a38e907306b60604bfba3adb3f07abad85"
+    },
+    "0.22.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.0/bat-v0.22.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:21221ca0d3d7efe0859f99d316b8aca3e0a6317f7356b6d9045f0fa30fd00504"
+    },
+    "0.22.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.0/bat-v0.22.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:3b4e940371699bf311503e746b01f4604a55b76659f720657efb52d69cd394c1"
+    },
+    "0.22.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.0/bat-v0.22.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:4f9277bf03a350078ef8384722b1ea03f15f2a788dcd409db1bace142535e6a1"
+    },
+    "0.22.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.0/bat-v0.22.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:d285675a0a9777c3a79998dcd3d8ffe0b7d3cb047e4084896799750891090eff"
+    },
+    "0.22.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.0/bat-v0.22.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:829512f7da4f55594dc5d21f72dddc955d11b1b60dcffcab7168cbc688e7124c"
+    },
+    "0.22.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.0/bat-v0.22.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:19521b6da4c6892000dfdd5e1014beffbad9c5862f1e7e599e1a98ef0a8f7248"
+    },
+    "0.22.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.0/bat-v0.22.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:3e23983782417430b724e481598268106f5bb0f161a31f543e827b3a86215a9f"
+    },
+    "0.22.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.0/bat-v0.22.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:773f819f2ed488e5a4856448017290c1e236611ed357d7c51dd2df931ae49b98"
+    },
+    "0.22.1-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.1/bat-v0.22.1-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:0ea8fd167291f258fc01174efcc249c188d1b16e543327dc4fe091e5692fba74"
+    },
+    "0.22.1-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.1/bat-v0.22.1-i686-pc-windows-msvc.zip",
+      "hash": "sha256:7b66cd89dddf6872164cd925d4c26a14d4a7dbb6a98983eb8542677cd823358e"
+    },
+    "0.22.1-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.1/bat-v0.22.1-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:dc57b012470cfa9e7f4f0aa1c491c779f23a10bb504f59b798234aab5d33e790"
+    },
+    "0.22.1-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.1/bat-v0.22.1-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:32ff92b8a0adf94bf717776ca3756a71e7229ee352db254babefd59e4e4a31c1"
+    },
+    "0.22.1-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.1/bat-v0.22.1-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:c7da22f4738eba19c4143d4465a3028eb7d3d54208508badc74f648099e7479f"
+    },
+    "0.22.1-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.1/bat-v0.22.1-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:da7b1b3005d505a09092dfc113704c21618e6c781d1a7aa6281a033a435c9d4c"
+    },
+    "0.22.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.1/bat-v0.22.1-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:d14028b3579df7a5e1b85e5b565fffd33b5e4096df0c719f98f8381ce1dcce6d"
+    },
+    "0.22.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.1/bat-v0.22.1-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:eb81510a3d14d3a15353cb9c5edb2e037fbce07ee8e986c8c63c94ad55368acf"
+    },
+    "0.22.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.22.1/bat-v0.22.1-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:917844685025552d9fb3d66e233ce55d3b3c2ea85a6c0ad3dc703705adea9525"
+    },
+    "0.23.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.23.0/bat-v0.23.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:4c36b2ad3e0f96e42192b333e67d0186cb7518f6ef861c5aba3b7daaa716d863"
+    },
+    "0.23.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.23.0/bat-v0.23.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:f65adcc58cc66176dd1efc02eb7b0c7a26aebb4e0917ffcd66c185ca655eabd6"
+    },
+    "0.23.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.23.0/bat-v0.23.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:e2391d17fafb94a61fb04c85c9b00ef77d2282bdc4c45dc15ed1c8bd52643133"
+    },
+    "0.23.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.23.0/bat-v0.23.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:35c8ca05926dba6638d4d003ef2db60289da88957ac25ec1cb83a6763ff84cda"
+    },
+    "0.23.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.23.0/bat-v0.23.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:88e83275358467b37ccb40aa6da6bd37b1650e7bd4743b47d7d27c89a9f91ff0"
+    },
+    "0.23.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.23.0/bat-v0.23.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:997079e713689718cf9f27bb172512592b913f32f9fb5fecd39645d4cc85d25a"
+    },
+    "0.23.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.23.0/bat-v0.23.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:ff2079e76f59934aed16a8ca5f837e2d76126865fde3f9be9a155e93ac4dccc5"
+    },
+    "0.23.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.23.0/bat-v0.23.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:901c7a0f2e54ea6ecd33f56a13b14ded265a24393421b0c99ad9f4563a8be4a1"
+    },
+    "0.23.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.23.0/bat-v0.23.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:e7f97bc826878283775fdb02a53a871fab1be920b921057549b2bc7da81bb771"
+    },
+    "0.24.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:feccae9a0576d97609c57e32d3914c5116136eab0df74c2ab74ef397d42c5b10"
+    },
+    "0.24.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:447f48b37df08cfc643b05e3e85ee8470eb8db5adcf96d8ecd405e90d2d92df5"
+    },
+    "0.24.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:25c597011975653d9344061a126a296cf6d7f3f360a0f6d23511dc6b41e324a0"
+    },
+    "0.24.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:4af2334a0b1eff5ff0d7100833c589df7b199af86c38c20340ab979c76f044e5"
+    },
+    "0.24.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:7032e4a4ea3c3b54e5a4d11db13859ddf75c3edd895e37fb02ddb7777afcc819"
+    },
+    "0.24.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:88cf974c204cb18df87aeb4953c5e4cc6ab0ec1606eeb3dd9b2272a3e6960ac0"
+    },
+    "0.24.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:1aa3733479d5980cb58c2b06aca06cf19ff377e85622f96549f8849f47f9f486"
+    },
+    "0.24.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:0faf5d51b85bf81b92495dc93bf687d5c904adc9818b16f61ec2e7a4f925c77a"
+    },
+    "0.24.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.24.0/bat-v0.24.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:d39a21e3da57fe6a3e07184b3c1dc245f8dba379af569d3668b6dcdfe75e3052"
+    },
+    "0.25.0-aarch64-apple-darwin": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:b3ed5a7515545445881f1036f0cc1b708c2b86cbce01c1b4033f38e0cfcc7b3c"
+    },
+    "0.25.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:d155df218dc2d662da191e2dacddc71c90197b62ebe7e2923a659e5dd055d5cb"
+    },
+    "0.25.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:ee0f12cf6006a79cf4ccf75d2ddcf9f6ba124644503244b1af909c2f72a2a9f7"
+    },
+    "0.25.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:28abbbeed9c35f7dca2d324f70b7f7fa573307c35453c582ca651987cfded09a"
+    },
+    "0.25.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:9379470b5f674b82eaa1821dbda664ebe40f1953cca16786f3e403e8e3c85627"
+    },
+    "0.25.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:e31193d082e1d82ac8c0d432feb306785ef274206dbf16bd2dc8e0a0043faa6c"
+    },
+    "0.25.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:b974aa834b6b65610090aed2bc7310d11c6f500105696d23a130aee24fd8380f"
+    },
+    "0.25.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:bc825f7a902825fff8284bf4d669ee143a032038a2823eb4995202e1c7cdd01e"
+    },
+    "0.25.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:1d5ced071ba9c765e16f4065877c178cefcfd2fe9581e9ddc92af265b73991bd"
+    },
+    "0.25.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:31bbbcc0d9f5abe16399425c98ffbf21aaa0ce190c7b75d4f32297696ff32b81"
+    },
+    "0.25.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/bat/releases/download/v0.25.0/bat-v0.25.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:93f47d76abe328c402ef712e9ac92aa6d5bc84d5adcbcaf0bbc5665e5275a941"
+    }
+  }
+}

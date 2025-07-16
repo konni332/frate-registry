@@ -1,0 +1,74 @@
+{
+  "name": "tokei",
+  "repo": "https://github.com/XAMPPRocky/tokei",
+  "releases": {
+    "12.1.2-aarch64-linux-android": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-aarch64-linux-android.tar.gz",
+      "hash": "sha256:4f3f854644569fad0404c1ef1bed3d6017f54b164251c4b88e79fba2739f7623"
+    },
+    "12.1.2-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:ef514fd12cfc3ee2d1725e5ecb866ee1123163004879ec285b22f3323389ebe2"
+    },
+    "12.1.2-i686-linux-android": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-i686-linux-android.tar.gz",
+      "hash": "sha256:921cd0d20f67141e019c3ccfe42b8beefb462118cb91abe0045677644a07a46f"
+    },
+    "12.1.2-i686-unknown-linux-gnu": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:f45dbb9d02bc39c0d7b6b9e05f98f37a6688dad9a40a51b7374f9438ff5b2a8c"
+    },
+    "12.1.2-i686-unknown-linux-musl": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:e80cebc6ad34a2f06588d0d3ba8f1041b8bfeb3dfca4c7d288a41cee6b336f89"
+    },
+    "12.1.2-x86_64-apple-darwin": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:2af8abb6a08b0513f9d16ca2c7cd37949b858d2a3e3227be8cc412b3b4937d5b"
+    },
+    "12.1.2-x86_64-linux-android": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-x86_64-linux-android.tar.gz",
+      "hash": "sha256:6a2fdf6dc4520a72db6c77ae1f49d28430568b7a6b3be37837e3dcc04ecfd864"
+    },
+    "12.1.2-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:c8c5c4ab9e1ff47e745de70f4af3214078657399fa7a0da0b5f209d780e49978"
+    },
+    "12.1.2-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:331e77046935d655dce8d97ebb943fcc7e9684586dadf3d197f3df5e760cd31b"
+    },
+    "12.1.2-x86_64-unknown-netbsd": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v12.1.2/tokei-x86_64-unknown-netbsd.tar.gz",
+      "hash": "sha256:1fb49ab8fea91fdffb4fd348ce60d1202852a8a7f548edc3b38713fe407b3af9"
+    },
+    "13.0.0-alpha.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v13.0.0-alpha.0/tokei-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:2e1631127869cd538ca265421e19ee9837e55a8bcbed1de8941b5ddd551205b0"
+    },
+    "13.0.0-alpha.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v13.0.0-alpha.0/tokei-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:3606c5b5b556fe0e046a8487ab71544451d8eba830558af29eae3d7d9b03aed5"
+    },
+    "13.0.0-alpha.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v13.0.0-alpha.0/tokei-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:86974f91b3eaa71fcf3ce43f2d7eb4ba667a3d9fd98faf803c2c150158598348"
+    },
+    "13.0.0-alpha.0-x86_64-apple-darwin": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v13.0.0-alpha.0/tokei-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:44765d78b981ea88bbfc990af006068e13d19451bed097db1356235a26f93827"
+    },
+    "13.0.0-alpha.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v13.0.0-alpha.0/tokei-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:5c039120797e3e00168f245f9ea857001c647315ecaa9bd810dcb6d0b80409d4"
+    },
+    "13.0.0-alpha.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v13.0.0-alpha.0/tokei-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:2137f2f26f5dbca6b00c10129e88666da1434b1348e320128a3b79ba2662875e"
+    },
+    "13.0.0-alpha.0-x86_64-unknown-netbsd": {
+      "url": "https://github.com/XAMPPRocky/tokei/releases/download/v13.0.0-alpha.0/tokei-x86_64-unknown-netbsd.tar.gz",
+      "hash": "sha256:92f376bddefbcdfd03d9a03e98653451036bba3888100ea7505e974bb24cdc51"
+    }
+  }
+}

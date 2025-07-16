@@ -1,0 +1,386 @@
+{
+  "name": "starship",
+  "repo": "https://github.com/starship/starship",
+  "releases": {
+    "1.18.1-aarch64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:d723defd2e86bc29cab9dbde8394384aeb76e283f1c234269cf63f174dc0d09e"
+    },
+    "1.18.1-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:5672bbaf1a7a60d57b83b563f20a3bf29f7c6fd17335a520b57b76da91a91680"
+    },
+    "1.18.1-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:49c834518338b90ef285c2c552f45c4f6b283cc843fe451f91a7be28ea74df9a"
+    },
+    "1.18.1-i686-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-i686-pc-windows-msvc.zip",
+      "hash": "sha256:1f8bc2f9b3a80c54952d6358412a0f7de505daecd1daa61da0e6e2ad01161636"
+    },
+    "1.18.1-i686-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:88fe674caec0c6b07f5b9cdaa3ee0ab23797c185290d13200cc440211bddda43"
+    },
+    "1.18.1-x86_64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:8d997e7c79611cb7ef25806ec47190fdbf0f75f07a9d43a3fa53e17d3a3c1b0f"
+    },
+    "1.18.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:6f14dadcfc2e202f22e91143fdca703009fb12543847e0f39364dcf18155a18b"
+    },
+    "1.18.1-x86_64-unknown-freebsd": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-unknown-freebsd.tar.gz",
+      "hash": "sha256:7510af4cd64824dff23ae36f041118a3d95a2184f2b4b64f42e65febc6fa1699"
+    },
+    "1.18.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:82f5ed3c3a933ec4accd07c87ad194ed0ec9c20672d743cd70186fd7fd5e4ec3"
+    },
+    "1.18.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:f811f8d17c2fd66b8abafd4d3af5724a52de593595ecdd6c6f776fcd473019ac"
+    },
+    "1.18.2-aarch64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.2/starship-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:0f73e09723b8ce97804ece29a49482b6b0a4e96cc4275e0bbd3fa8ae08fe7c6c"
+    },
+    "1.18.2-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.2/starship-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:b8640e5cca6dffbb64e14f69a20c96ef95ae15632c42d337eec8f01c76c5ba0e"
+    },
+    "1.18.2-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.2/starship-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:6599b4653aef7d5b1d3bd60a2940eb5084d0b2d66d69d5d4b9ef3802cb15e14f"
+    },
+    "1.18.2-i686-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.2/starship-i686-pc-windows-msvc.zip",
+      "hash": "sha256:39a99ca8e5d91607676ad1afaa241fbfa875a96798043ddfe3e3f780c39b45d5"
+    },
+    "1.18.2-i686-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.2/starship-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:489fd7d0a4670f0f55b39e84a3790c3dd47ba8abdb2b24b580983968a9a7cbc8"
+    },
+    "1.18.2-x86_64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.2/starship-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:f8ef4dae2b1cee520247550a7240e4bc042fa52432a245805338abcbc1c5cd29"
+    },
+    "1.18.2-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.2/starship-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:78efef57e4dfce1bb0cf371d8c713336ea653ba4e10f223bef7e436b3aad0596"
+    },
+    "1.18.2-x86_64-unknown-freebsd": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.2/starship-x86_64-unknown-freebsd.tar.gz",
+      "hash": "sha256:00ee998c54496f7c49ed80297438bed10094e3452b62ef9b936359820dbab45e"
+    },
+    "1.18.2-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.2/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:a89e678a2f8dc3b60584ecc5c371c62f6a5ab7d37cc32e8bf3ccab951a2a69ff"
+    },
+    "1.18.2-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.18.2/starship-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:f2665eea49c900df7ca1a5e91fd5a530a3d607282287b1392974843588e75b5c"
+    },
+    "1.19.0-aarch64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.19.0/starship-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:d11c4643b9773c3a43f5eea1e95883bf79d0621cdd1ad86371f5a88a3fc14586"
+    },
+    "1.19.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.19.0/starship-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:3e83284bd43bca53c499f75b927cc2896d74626f02591029457adb263d251ae0"
+    },
+    "1.19.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.19.0/starship-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:f65f2dfecaf82fc45af03d584cfd6c701ed54b38fdeb3d92211fc0e848ecf205"
+    },
+    "1.19.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.19.0/starship-i686-pc-windows-msvc.zip",
+      "hash": "sha256:382a138bf4c068de422efa0135ab071dd4661fb5225219033b3546683765ee2a"
+    },
+    "1.19.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.19.0/starship-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:0378fe8c06be6ee2c763dcabd429ffa760d67b257efed31d47c55ee721102fde"
+    },
+    "1.19.0-x86_64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.19.0/starship-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:e29cc00ec9339a8ff85f9903a621311d9d1b6bdac196021594f96e6ab7902b69"
+    },
+    "1.19.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.19.0/starship-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:8e90c26522072d714d0fec882096990795ecbd6680bcd32b5f83cec42637aef0"
+    },
+    "1.19.0-x86_64-unknown-freebsd": {
+      "url": "https://github.com/starship/starship/releases/download/v1.19.0/starship-x86_64-unknown-freebsd.tar.gz",
+      "hash": "sha256:36eb5964c72842c57e740e150f110ed2fa2d88186e64a2aa79452599926aacfa"
+    },
+    "1.19.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/starship/starship/releases/download/v1.19.0/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:04710e277f7802ddf41400b650233a8954892bb9326768d82fff7d360ff37c58"
+    },
+    "1.19.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.19.0/starship-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:a4283306d7d89e215208e787a851892b4933cddf8624366734d3614f816a675a"
+    },
+    "1.20.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.0/starship-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:d25549897367bcab0aae11f739a14d8b4d0f4800659a2b2ca14537a894d6c956"
+    },
+    "1.20.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.0/starship-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:d07ed5be8f7de3c1c68dbee7f1a6912122b06d9c2808b3cea9d0045138026b5e"
+    },
+    "1.20.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.0/starship-i686-pc-windows-msvc.zip",
+      "hash": "sha256:56701710d6d5d57feaf5ce26373ed5cb0defd3ddccbda0357266bc9c61d10232"
+    },
+    "1.20.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.0/starship-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:bc77a9335800aaf966cbe29896dda9ff1de9d9034efecd5e0d735297eafed4a4"
+    },
+    "1.20.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.0/starship-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:4c263a1b558209d712ac3a2da8063b4b937c011f2b6215deca966e6536b35140"
+    },
+    "1.20.0-x86_64-unknown-freebsd": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.0/starship-x86_64-unknown-freebsd.tar.gz",
+      "hash": "sha256:f3a31afa1a5b6dfd1666dcf301c263972e96c89bc7cf8e907ecef986e1322e5b"
+    },
+    "1.20.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.0/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:f3a6a7a6ef9fa427b46d5e63409b25b7d65d74474bb10ddd02a7ae8994ace062"
+    },
+    "1.20.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.0/starship-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:8b674659524fc6147f1b9857ed0135db277378f5dec2a98763502ce1471fa886"
+    },
+    "1.20.1-aarch64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.1/starship-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:70af040150d40e440b48c3baa5ec19ab3027a5075acee16387ceb5a4bfe68f56"
+    },
+    "1.20.1-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.1/starship-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:b24259bc7fbc2c49b35e66fe16b35e9b146912f8e3dc9250525757ebc50cc7e5"
+    },
+    "1.20.1-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.1/starship-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:0ba2aeb761580c89f85015e57d635fffd4ae4e6d10c8e11fa373334e9364d169"
+    },
+    "1.20.1-i686-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.1/starship-i686-pc-windows-msvc.zip",
+      "hash": "sha256:8f43fdb47d384072793b44924c0bb11979a4eff3ddbddcea7d7596a165690a9a"
+    },
+    "1.20.1-i686-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.1/starship-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:ac9070a9a897e4bc1ec9b098942a9df32d74dd8e90327b6676587eaa9557fbe0"
+    },
+    "1.20.1-x86_64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.1/starship-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:33a2c5067b60e6ad1863fa4c035f5bb049b2429794a43b6c63147d1ec1e929a1"
+    },
+    "1.20.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.1/starship-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:d14a3b6d00a148d6fbe5accbae7084166f7c497b0d7ae466be908802baf35eed"
+    },
+    "1.20.1-x86_64-unknown-freebsd": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.1/starship-x86_64-unknown-freebsd.tar.gz",
+      "hash": "sha256:9a950a07e3e4f8338d3075a6c9eb97fdd061a4359f7b335f120d0d5ac7a7f5ee"
+    },
+    "1.20.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.1/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:f6cd65f2364d1fb32fea779ce779bd933e5ad23a2ea954d4f1b49e6bcb9c7a7b"
+    },
+    "1.20.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.20.1/starship-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:c5d4096d79242a7a7304e30b9d8c82b2748a7af0dec135fa2f78c5745ec7f6c8"
+    },
+    "1.21.0-aarch64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.0/starship-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:3d32f1eea7020d3553078f2933b697304a243b0c32621ee7ebbf10a2f72dbcfb"
+    },
+    "1.21.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.0/starship-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:73f0be0b91697e685713c6b317859b3a665b1830e12780cea75456c8040a6252"
+    },
+    "1.21.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.0/starship-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:8d1cfaddbb712511191683e511fc6e4fdfbba0b13acdb93afbdc83f78cdce9c5"
+    },
+    "1.21.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.0/starship-i686-pc-windows-msvc.zip",
+      "hash": "sha256:4cad5d688eda5ec0438334b6f669538d81b2f0929e942a99e6ac51b477cd55f3"
+    },
+    "1.21.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.0/starship-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:c7e5d81e152ba3e0ca08bb8105f94af0e7a3dfb9b340d55637fd5d0eea0ae806"
+    },
+    "1.21.0-x86_64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.0/starship-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:8db87d718c86f4ad71dfb640c9ea212a9a69ba6ceb660f9ca3944b3845689f74"
+    },
+    "1.21.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.0/starship-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:dc41b71a805e3a44264a6aa0e20ff10707306049737384deabd43214bca17fd8"
+    },
+    "1.21.0-x86_64-unknown-freebsd": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.0/starship-x86_64-unknown-freebsd.tar.gz",
+      "hash": "sha256:3dcf0255e3d05a2f40828a63eecbb94727288858215c599fda0a02609f7cb5e4"
+    },
+    "1.21.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.0/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:c4329c697e09969db53bba1602deb39db610bf91820806df7c2534b400bc62a9"
+    },
+    "1.21.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.0/starship-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:960a34fce9992fa0f95d7dccde25fbfcc12b5d33f64ea65500654a443065b7bd"
+    },
+    "1.21.1-aarch64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.1/starship-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:cf1bf179c10b82ec05915323fbebabcc8f5be9a55678684706af4e1ff117ec89"
+    },
+    "1.21.1-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.1/starship-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:a5e6ae7ea06bd82ba7047435f63187a5024d5109faac20ec975db4d690788344"
+    },
+    "1.21.1-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.1/starship-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:3ac9d7015e9dd0e15b26c5efc584c2bc79c3d6d92735fdec4c37ae98161e7d02"
+    },
+    "1.21.1-i686-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.1/starship-i686-pc-windows-msvc.zip",
+      "hash": "sha256:eb83f92b0a4cf7b34c9c40a9795eefb1e90568954fb59340f58ee99b00ca10fd"
+    },
+    "1.21.1-i686-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.1/starship-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:ad662c46cc8dc6220c01bc88549192fc724fb17e59027c9e5bbfcde275cde89f"
+    },
+    "1.21.1-x86_64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.1/starship-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:80288312da78c0debe9dd76a1d5ca08d95d1c56bbd18a761077f016b5d8d4689"
+    },
+    "1.21.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.1/starship-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:19ce36e44825289d56e9af10c5d5f30310073b233f64b8a99dd21402b6c2f007"
+    },
+    "1.21.1-x86_64-unknown-freebsd": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.1/starship-x86_64-unknown-freebsd.tar.gz",
+      "hash": "sha256:a225b01b69983782cbf21166d92367ed584a25eda9b551ad7e14bc9974e50cad"
+    },
+    "1.21.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.1/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:060aff002a644feb06a281906e2bd7828c6288ab724a8468c51061e42a353adb"
+    },
+    "1.21.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.21.1/starship-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:744e21eb2e61b85b0c11378520ebb9e94218de965bca5b8c2266f6c3e23ff5be"
+    },
+    "1.22.0-aarch64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.0/starship-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:94ad1f227dd1c8896aa45cdce474933d07b520b147f41717966614e6fb0c803b"
+    },
+    "1.22.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.0/starship-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:cc04e0ba70e78697c7633111ec19f9d023a8592029152557bd8a99000a26d90b"
+    },
+    "1.22.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.0/starship-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:2287b62380aa9f122130ec6d40edc196e0bd1ff30c19fd4bf75e2ffbe9e387ab"
+    },
+    "1.22.0-x86_64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.0/starship-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:64a4872510cdaea5cd5beb1d34e6d928842d743b93a10fddb870fb33cf038706"
+    },
+    "1.22.0-x86_64-unknown-freebsd": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.0/starship-x86_64-unknown-freebsd.tar.gz",
+      "hash": "sha256:166f7705054ea7fb914a85e58568cd92e85ff27cd0c942e84c1a89e2bec6254c"
+    },
+    "1.22.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.0/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:feef8c9993b31116f78210cf3b6b534f56d1761c1bddd5fff988e51d2f549f1b"
+    },
+    "1.22.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.0/starship-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:7be7d89c62dcbbfd761386360ec0b429e59399e51a3b7453a9d2a386b168b8d5"
+    },
+    "1.22.1-aarch64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.1/starship-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:b73b2ef7995eaf07d18a806c3d3addaba7797d1fab2daceb875944bf038b97a9"
+    },
+    "1.22.1-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.1/starship-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:e70380ca76c9a83a7ded88c1d2edcf84ee79222b7274b8c8c6d74bc8a9b7b0d1"
+    },
+    "1.22.1-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.1/starship-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:b82edd21060f3ed112460442c48a3a9545c8dbf3b564154441f4e6b58eacc387"
+    },
+    "1.22.1-i686-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.1/starship-i686-pc-windows-msvc.zip",
+      "hash": "sha256:ae8469b846f58e8645115be7106424a504fcdd06980463d01f6341580f8383a9"
+    },
+    "1.22.1-i686-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.1/starship-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:71668f4ee6bbf04c449e820ca06b2afb529d87458ff7bf1b1bab0cd5bb4ad4b8"
+    },
+    "1.22.1-x86_64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.1/starship-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:38f13f3ec091a900996f47a74e3f31f8067dc3d6fd59d6bc179e4ceb853eba91"
+    },
+    "1.22.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.1/starship-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:d7e7252c992c65130daebe3fb7a087a273f63dc54af7883e5dfc4616d034871a"
+    },
+    "1.22.1-x86_64-unknown-freebsd": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.1/starship-x86_64-unknown-freebsd.tar.gz",
+      "hash": "sha256:3c1b15adba8680e97382a392c54917ade0e3e75697fced1180661a8f54cf7271"
+    },
+    "1.22.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.1/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:e57db6f6497ee8a426c5e77b4d6f5c50734d3e9cca7a18a8aef46730505a3ae7"
+    },
+    "1.22.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.22.1/starship-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:62c91b5ecc7f8c8c6ea7ffea42a98bd2e6a2d29daf61562fac04daece18a6461"
+    },
+    "1.23.0-aarch64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:042c8001275316836a3c43fdb88d0787395edfd0c10d209e4892ab5577b80d57"
+    },
+    "1.23.0-aarch64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-aarch64-pc-windows-msvc.zip",
+      "hash": "sha256:b89470c308fa2fa4bf77d0df8ea9c74d8102817be936b2367959845c60008baa"
+    },
+    "1.23.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:d37040138c68b5f3334bbe16d4615f0a83829deebecc5d014e779c302e8270d8"
+    },
+    "1.23.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-i686-pc-windows-msvc.zip",
+      "hash": "sha256:2bdc209c673de3537a173184c5ba09c205d5433915c1e98a9efffe0a6e6dadbe"
+    },
+    "1.23.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:bcbf86c7057809a759a51ff45b711a94a9175a6eb289f6b9b062221491e2d136"
+    },
+    "1.23.0-x86_64-apple-darwin": {
+      "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:8cac7a18fb1faf0aec50bd221dd71ecc8553850d99c212231851ae64ba11f089"
+    },
+    "1.23.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:50e670dda19bcc480ae4d1f7f0d3c7a092693252292406b54ababa706100f03c"
+    },
+    "1.23.0-x86_64-unknown-freebsd": {
+      "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-x86_64-unknown-freebsd.tar.gz",
+      "hash": "sha256:e93475994006a658dec6d3beb924019116bb1522d697f47054d85f0d02ff9578"
+    },
+    "1.23.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:cef41df04378c6f692913c5d9c1032d3b9a4369a1d2f3296c8300ed8838c2197"
+    },
+    "1.23.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/starship/starship/releases/download/v1.23.0/starship-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:8d06d2cc67aedd6316ff58ab679fb80cded0d85de1dcd5727df0633d35356d57"
+    }
+  }
+}

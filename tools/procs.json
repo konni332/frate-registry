@@ -1,0 +1,154 @@
+{
+  "name": "procs",
+  "repo": "https://github.com/dalance/procs",
+  "releases": {
+    "0.14.1-x86_64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.1/procs-v0.14.1-x86_64-linux.zip",
+      "hash": "sha256:560707ff53a92f262b805ad9c7b2e38d495e78688a17f875aa97831478c3f5e3"
+    },
+    "0.14.1-x86_64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.1/procs-v0.14.1-x86_64-mac.zip",
+      "hash": "sha256:26b96b7e0cd96d6a32fa67bb9c8d16948dd4f777096ca90c826fbbd9d426f05d"
+    },
+    "0.14.1-x86_64-windows": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.1/procs-v0.14.1-x86_64-windows.zip",
+      "hash": "sha256:57b7bb9625a8c5f84dd2f85e8774842415fa02827f2740a3bdf9506e8f358805"
+    },
+    "0.14.10-aarch64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.10/procs-v0.14.10-aarch64-linux.zip",
+      "hash": "sha256:ef83309695acc4b7eea0ce627b6752b2f79941dfd6967231a2717aa875dc19b9"
+    },
+    "0.14.10-aarch64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.10/procs-v0.14.10-aarch64-mac.zip",
+      "hash": "sha256:30e604485d1a109c87796c04d7d005b63482fa4e9a813cb703c1af54e9be10e8"
+    },
+    "0.14.10-x86_64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.10/procs-v0.14.10-x86_64-linux.zip",
+      "hash": "sha256:ad84b948703e74379edc32d80fe9b862f6f1e95fc1e305ff0a8a3b4cb7b05ee4"
+    },
+    "0.14.10-x86_64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.10/procs-v0.14.10-x86_64-mac.zip",
+      "hash": "sha256:f1730b6477e6a854e11dbc94958551157f6f75976c11f0d4844bda976b4d5ff3"
+    },
+    "0.14.10-x86_64-windows": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.10/procs-v0.14.10-x86_64-windows.zip",
+      "hash": "sha256:5b9abab9faf47897a2076ae8279f4a1eba4436f28c0337ea3152993b0d1ba19a"
+    },
+    "0.14.2-x86_64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.2/procs-v0.14.2-x86_64-linux.zip",
+      "hash": "sha256:d7dc43d5d6aad4d27c94b5a860825b19ab881a0220d2aa7d7f3deff10a716040"
+    },
+    "0.14.2-x86_64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.2/procs-v0.14.2-x86_64-mac.zip",
+      "hash": "sha256:52c955c24cf4cf2f3d59282fe3ef68f0269e1353e13f70cdd877a4a54fc3ae87"
+    },
+    "0.14.2-x86_64-windows": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.2/procs-v0.14.2-x86_64-windows.zip",
+      "hash": "sha256:3e4c53fa24761df616bfc2037a9dacf6362086ae2da4acbe69a559dfbfdf1bba"
+    },
+    "0.14.3-x86_64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.3/procs-v0.14.3-x86_64-linux.zip",
+      "hash": "sha256:79359e33fe65d509c16355b450cb88e8a8f0532ae0354c212d099a09bf6c3f6e"
+    },
+    "0.14.3-x86_64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.3/procs-v0.14.3-x86_64-mac.zip",
+      "hash": "sha256:b459eb5da0aa8e83319aed5d80f10532a7f9e9ea0670a6cc64035cf7856b41cc"
+    },
+    "0.14.3-x86_64-windows": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.3/procs-v0.14.3-x86_64-windows.zip",
+      "hash": "sha256:508b119c4772d1867b082bd4e439c957404542efe9c586ff9b1bb8f8ec2365a1"
+    },
+    "0.14.4-x86_64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.4/procs-v0.14.4-x86_64-linux.zip",
+      "hash": "sha256:dc14fc7bc898f22e60ed92b2cb7090236c09250f947207c12be0ed03a678aaa2"
+    },
+    "0.14.4-x86_64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.4/procs-v0.14.4-x86_64-mac.zip",
+      "hash": "sha256:f01a1d1610d298ee360c231781f786e727e4cb8531722ab046b63c83884071a8"
+    },
+    "0.14.4-x86_64-windows": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.4/procs-v0.14.4-x86_64-windows.zip",
+      "hash": "sha256:e99f45b09ac7fffbc3d1e9993eecfe75fe7993d9580f5fd064417deb2e87ea05"
+    },
+    "0.14.5-x86_64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.5/procs-v0.14.5-x86_64-linux.zip",
+      "hash": "sha256:2c3f2b8aa03c0eaaad827a2699556590ebf20a9a3eef32f3a09c19b0248afba5"
+    },
+    "0.14.5-x86_64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.5/procs-v0.14.5-x86_64-mac.zip",
+      "hash": "sha256:9b165f5d5a8c808337604f7e932024623bfa040a2a770cbd2923061a7f24ba9e"
+    },
+    "0.14.5-x86_64-windows": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.5/procs-v0.14.5-x86_64-windows.zip",
+      "hash": "sha256:0b6a02a793800296f0e9e5af12717372d6bf7cdb28d69c4eac999231e2c4e699"
+    },
+    "0.14.6-aarch64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.6/procs-v0.14.6-aarch64-mac.zip",
+      "hash": "sha256:2d3be13f14a44a60dd00ce29d3197ada43e0e2e3b694514eca530f3f4c0a3926"
+    },
+    "0.14.6-x86_64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.6/procs-v0.14.6-x86_64-linux.zip",
+      "hash": "sha256:90d4d9dd6d1f9894169632c8316e46ff2e696ad0e3b950698aa1c52d74c013dd"
+    },
+    "0.14.6-x86_64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.6/procs-v0.14.6-x86_64-mac.zip",
+      "hash": "sha256:d9d7c8666cdf9e946498ec3fa3418832632bf9bb983cc155231912b81b653aef"
+    },
+    "0.14.6-x86_64-windows": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.6/procs-v0.14.6-x86_64-windows.zip",
+      "hash": "sha256:b379186f4f2eb770d6fcb61ebeb505bcdec990f36df70ab1303318ad04336e4b"
+    },
+    "0.14.7-aarch64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.7/procs-v0.14.7-aarch64-mac.zip",
+      "hash": "sha256:21f5b747ea21346d341d25518afee1d8b2b61602ef3e7cc61f29581583cc6b58"
+    },
+    "0.14.7-x86_64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.7/procs-v0.14.7-x86_64-linux.zip",
+      "hash": "sha256:5dd72ad4c2904b5c3ce7953c243199ca144578400b9a365ab84498954c369924"
+    },
+    "0.14.7-x86_64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.7/procs-v0.14.7-x86_64-mac.zip",
+      "hash": "sha256:a1bc3f0ce2e924f0c8f17064a52d308a87edb2acb6bba71470d0359fe0b90a51"
+    },
+    "0.14.7-x86_64-windows": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.7/procs-v0.14.7-x86_64-windows.zip",
+      "hash": "sha256:9b6d0d16b47cb45258fa4e0c7d56ebb9104758f65de908a116d12a1560bd9e9a"
+    },
+    "0.14.8-aarch64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.8/procs-v0.14.8-aarch64-mac.zip",
+      "hash": "sha256:02b8ce31308d6fadc534d1e50e1afe39578fa583c61357cacaa4f3b9b53f13c7"
+    },
+    "0.14.8-x86_64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.8/procs-v0.14.8-x86_64-linux.zip",
+      "hash": "sha256:f573c1762922a107e7c18f7ae6eca2447dde22bf1a580c2612b0c5fcef495f11"
+    },
+    "0.14.8-x86_64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.8/procs-v0.14.8-x86_64-mac.zip",
+      "hash": "sha256:b9c3c6b59b4b7613908665da9e2765439f38d13e9aad9674a00c61fbafebc4e0"
+    },
+    "0.14.8-x86_64-windows": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.8/procs-v0.14.8-x86_64-windows.zip",
+      "hash": "sha256:f688f3468c0d0fe605002912b3a6915bd0fd0195fea43315c3c6cedb6691ca65"
+    },
+    "0.14.9-aarch64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.9/procs-v0.14.9-aarch64-linux.zip",
+      "hash": "sha256:2573a92fa3e5bf9108a71a9619c22aa5995ce3889de6b41b24a6fc7b21fc7c49"
+    },
+    "0.14.9-aarch64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.9/procs-v0.14.9-aarch64-mac.zip",
+      "hash": "sha256:5f8564e9fcee88c0b485712792e493b7451d540a00a24c41bb637d6dd379929c"
+    },
+    "0.14.9-x86_64-linux": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.9/procs-v0.14.9-x86_64-linux.zip",
+      "hash": "sha256:b3d1baaf8beadf6e97d0f9fd9847447800f067601c95c64b5456bddac72aa558"
+    },
+    "0.14.9-x86_64-mac": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.9/procs-v0.14.9-x86_64-mac.zip",
+      "hash": "sha256:b9901fca0e2c5d3da890a46d3f53e84cc48d5f07c676d676594a93145fee3721"
+    },
+    "0.14.9-x86_64-windows": {
+      "url": "https://github.com/dalance/procs/releases/download/v0.14.9/procs-v0.14.9-x86_64-windows.zip",
+      "hash": "sha256:d50ad282a4de3655e7e6b1cd288d13d19de6fcefd623fc9e6a1692629d5688e9"
+    }
+  }
+}

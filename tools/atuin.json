@@ -1,0 +1,246 @@
+{
+  "name": "atuin",
+  "repo": "https://github.com/atuinsh/atuin",
+  "releases": {
+    "18.4.0-aarch64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.4.0/atuin-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:66e20535efd1c1e842b7a6fac761b326603ef594fbb8ed5b72360f66ef7d3248"
+    },
+    "18.4.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.4.0/atuin-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:9815080f1276734795622779b4ff9daa8ff5dbd4ac98d65169dae2ba3f70b893"
+    },
+    "18.4.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.4.0/atuin-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:62617b359a182e1b9132f4b83478dfb0454f44de6c3cf35b5fde3ab92c851d04"
+    },
+    "18.4.0-beta.5-aarch64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.4.0-beta.5/atuin-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:2dc2a9f2f857ff968211b344a059b6136e95653d31a8056465d7195d8bfddff7"
+    },
+    "18.4.0-beta.5-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.4.0-beta.5/atuin-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:c87bd15b5d72f51a5e4492e1372a5960cba406daf32ca535d6acd3ee278d2e09"
+    },
+    "18.4.0-beta.5-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.4.0-beta.5/atuin-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:fece67e5f1dcf57da0a914f4f875be02444ad09d1add51e1c567ce34f595fe67"
+    },
+    "18.4.0-beta.5-x86_64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.4.0-beta.5/atuin-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:30ea04eda733c7f911f1247c1b9ac9c684cd8a73c8630878b6bfad5376def1f1"
+    },
+    "18.4.0-beta.5-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.4.0-beta.5/atuin-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:6df74905325bda2e4a2b6bf71c6475e532ff4918498efe73207dbdb6739cb267"
+    },
+    "18.4.0-beta.5-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.4.0-beta.5/atuin-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:65d2adbfe0adf483e7959499ba6f1c41014c86636a0fcd0db2475c868815b9cf"
+    },
+    "18.4.0-x86_64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.4.0/atuin-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:c77e081c514b8984c344090a87c5641b2fc528b503513dcd0228edbd9a5ae46b"
+    },
+    "18.4.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.4.0/atuin-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:906a4e19ddbab01ab9ae830ca107b0fbee02d84031e1e6efc7723b5a91992b27"
+    },
+    "18.4.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.4.0/atuin-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:153f5e4bf0ed770bbb58b2ac3cce68e4be05bd785b9682a9686b1b642698426d"
+    },
+    "18.5.0-aarch64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0/atuin-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:2c57ff6ce55106dac337a02e828667c19bcad5ff98cfa695414e7abfc85ce8de"
+    },
+    "18.5.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0/atuin-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:fc0472bb5d5f57efe48a3188434035d44d6dac4a9fee3866b8ff4ede7ee1c4ef"
+    },
+    "18.5.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0/atuin-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:eaee559c1494be99e0043407c3cea5c79b28c359a5a9fa2d256d3f2842bde887"
+    },
+    "18.5.0-beta.1-aarch64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0-beta.1/atuin-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:5b885cbc6440e8b859655a70b8ac876653eedd74313caa51b7b4a6f347d30995"
+    },
+    "18.5.0-beta.1-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0-beta.1/atuin-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:5b7f51de07db5ac8f7ddab664490403c9ec54667136feb27e263f4fcf24b37ef"
+    },
+    "18.5.0-beta.1-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0-beta.1/atuin-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:2dd63a648daa2ac5f1c5ee415582e80d2ab5357d23b77003acb21e7d94dd925a"
+    },
+    "18.5.0-beta.1-x86_64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0-beta.1/atuin-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:d47f080e99dfb032aabef3bf534895c07222b63cc95f3f3051cdcadc9bf2d9e2"
+    },
+    "18.5.0-beta.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0-beta.1/atuin-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:c3502f7c2ca99aa3b41f38ef8bbc70342298f5cb75418eece37d47ea02ceae6b"
+    },
+    "18.5.0-beta.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0-beta.1/atuin-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:8e1045bf7b00444e2bb4d2e195eb96247ee3a62a30f2a3a318f615507e673f11"
+    },
+    "18.5.0-beta.2-aarch64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.2/atuin-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:0f6274c19140aa4f1468a75947f1c116c62e4c28c58057b73e953949cda033a1"
+    },
+    "18.5.0-beta.2-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.2/atuin-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:ca76ed146140dbb86dc41220656b94cac99d5b0f3a6d559f769fddb69b107df6"
+    },
+    "18.5.0-beta.2-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.2/atuin-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:2ebf45b4d10899ffa51780a28833e1d52b9ce8b42535afe43a2cf15c68822f60"
+    },
+    "18.5.0-beta.2-x86_64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.2/atuin-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:6b6ccc94eea7b7320997e4c75882539ae46b748068c1848059acde40ab4d39c1"
+    },
+    "18.5.0-beta.2-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.2/atuin-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:6099368d2728a347212aae1b6351335f0642760e3d8d0dd04a9aecc982459087"
+    },
+    "18.5.0-beta.2-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.2/atuin-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:025893cfd8297456fcb3547c088cd645d4c43efea0f0d4338ddfc6674473a54f"
+    },
+    "18.5.0-beta.3-aarch64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.3/atuin-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:c9038566ab5894d5dec193f50bba01c8feeb736161806cc671aea44eece01208"
+    },
+    "18.5.0-beta.3-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.3/atuin-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:ccc6c4870817f761e74432b87f480e0a5ada47fb6dda11c7605de0a4fd690c42"
+    },
+    "18.5.0-beta.3-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.3/atuin-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:d957f20af15b09a060ebe3d5fc6cbd3349ab88e36c5f69a3b7efdce0a2546d5d"
+    },
+    "18.5.0-beta.3-x86_64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.3/atuin-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:820e5172bc1a31d3d4000879f9392defaebe4de7039178cbed207be70de0394a"
+    },
+    "18.5.0-beta.3-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.3/atuin-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:62a3712b56f6285c2eb287b2aca4f2d3c1073dc4119f8fceef806ff7b028cc58"
+    },
+    "18.5.0-beta.3-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.5.0-beta.3/atuin-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:3d5064c21b83eb99ae43d8cb4a16d87d98cda7351848aaa5ddedffcdad92a533"
+    },
+    "18.5.0-x86_64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0/atuin-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:2ede961cdde053d73a46bdbc730831306dbc50c771a188eb68963194b7b910e5"
+    },
+    "18.5.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0/atuin-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:00db1d5467ffb783ee1306a6755a13903932ef2f1c8661a73679633e8a961821"
+    },
+    "18.5.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.5.0/atuin-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:47a09d0b7e696b72b09fe37d5c1933ba22ee7bf131574493f66b1260aca2915d"
+    },
+    "18.6.0-aarch64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0/atuin-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:65f2884afafb873ceb1792d076d2f2c837e981ae83f3bbcbe0ec2f95ecdc8d9f"
+    },
+    "18.6.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0/atuin-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:f724f6bf4c038f0f1bc3a3456b4fef4e7a766e7ad0c34bba93207ca65b435e59"
+    },
+    "18.6.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0/atuin-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:1c6edf638ace7ffe77e1788810af0a6ea98f68d4bcbfac6bb955bd5ae86ae1bf"
+    },
+    "18.6.0-beta.1-aarch64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0-beta.1/atuin-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:3bfe6cf567acff6053b0a9faff8756c867fb2e5fd2abd4825835e44f3a48d978"
+    },
+    "18.6.0-beta.1-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0-beta.1/atuin-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:0182ed8d9857c6f92e272c48a1a380717a2d9bdfc5c45e1038ba29a004e9aefb"
+    },
+    "18.6.0-beta.1-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0-beta.1/atuin-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:8b0558ba04cabedafad15eb1352642e4c8f1e17159e1ad29247abc6848b208ab"
+    },
+    "18.6.0-beta.1-x86_64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0-beta.1/atuin-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:7991bbd5d25c5850cae07aff1fbdf6184a47283867f182a97e3dd5125f65277f"
+    },
+    "18.6.0-beta.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0-beta.1/atuin-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:102d305cdf1054c27723d7d81f7de16f3710308b6fe7b44e8490f576fcef71b9"
+    },
+    "18.6.0-beta.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0-beta.1/atuin-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:b6bab5c08300d15fe103173c233caf1b091c7f87b60ceef8398f26e213f3083c"
+    },
+    "18.6.0-x86_64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0/atuin-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:f12380780ae177499bd130bbbb7a4cf237f72ddad97b1e4249b9511b9f68ec78"
+    },
+    "18.6.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0/atuin-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:fa694f120e3f0a48f2acc1b46a36651374904d577d65756f15c6770b4fe2b939"
+    },
+    "18.6.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/18.6.0/atuin-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:6c24fbff42b712831110eff053138b37e7b6c81ed9b0d0e346884d3aab990525"
+    },
+    "18.6.1-aarch64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.6.1/atuin-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:649f1ea17a11d150c18c52341e7dbe18fdec551e38ca824b0cf6e9a7553dbf1d"
+    },
+    "18.6.1-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.6.1/atuin-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:a3f2b61e4b5020b03fa6f72cea13bbfd254f9b0021c65b00462b784a80fc349e"
+    },
+    "18.6.1-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.6.1/atuin-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:42b7d9bde8bf2d04832c1b2ceea1d3d89ecd762a40623d92a7197d2287fff82b"
+    },
+    "18.6.1-x86_64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.6.1/atuin-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:f28b83cd12911e39f55599c949ff898e727522edcf75bd25d5bbc1a5a34128ee"
+    },
+    "18.6.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.6.1/atuin-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:245e8ddc191a60fb363262bce97c0b733220a3b3986074ce9507d773c13462a2"
+    },
+    "18.6.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.6.1/atuin-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:c781d5eeb4c407069fbc402ec3ad11a755f5a916f13220ac4612dccda42399ad"
+    },
+    "18.7.0-aarch64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.7.0/atuin-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:6667b9d75238d94062d14ff6cf0d5949ba224983a833dd35ac68aa3838231626"
+    },
+    "18.7.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.7.0/atuin-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:d754eb5de32b339e334927250e5253cf849cb6f81000388b4a6e6c8ce06df54c"
+    },
+    "18.7.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.7.0/atuin-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:ac5565599cc6fe4eb6ee478b2d53c3e07d003df1fec028966bcacd42932a7179"
+    },
+    "18.7.0-x86_64-apple-darwin": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.7.0/atuin-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:17597db164e45248662c896f54ef9154db763027d70bdd919c5c7baa41fad4d5"
+    },
+    "18.7.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.7.0/atuin-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:ea2441bd60acb2d482e3578ec3a10ddb32a5d9c02e1b40864627d717c8d4024e"
+    },
+    "18.7.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/atuinsh/atuin/releases/download/v18.7.0/atuin-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:0a7a9c5656a6c59ee5fbf40e47801f2764007fdd3b86acbf28ed672f277aaefd"
+    }
+  }
+}

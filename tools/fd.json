@@ -1,0 +1,386 @@
+{
+  "name": "fd",
+  "repo": "https://github.com/sharkdp/fd",
+  "releases": {
+    "10.0.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.0.0/fd-v10.0.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:f471bed460db5b48cc00bea9e7d156e06c060a347c355c99db3170433908819c"
+    },
+    "10.0.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.0.0/fd-v10.0.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:d919cd84c1388ef711373d134a1f8ddca7db63cdc59be02fdfc465a6fb58e740"
+    },
+    "10.0.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.0.0/fd-v10.0.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:b590d372463ef4c6079183fe54c3828ef69ede3fe44cf9ea41811c3215058373"
+    },
+    "10.0.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.0.0/fd-v10.0.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:7d9796412229935842104cb239152fb34c1fcf22734752aabdf3c7c581eecacc"
+    },
+    "10.0.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.0.0/fd-v10.0.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:53c17b11b09076a09803861f41e528bf53bbb16aedce6337d02308bd58853fac"
+    },
+    "10.0.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.0.0/fd-v10.0.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:b032ad8118c55c54b56c05b0ff62fdb85cb95c86dff5d5b79123ff7a9381c688"
+    },
+    "10.0.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.0.0/fd-v10.0.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:f15d1745cf1c4f6a9560340f13a130a80d5d7db7f2b42dead0504cf8769db408"
+    },
+    "10.0.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.0.0/fd-v10.0.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:c9be46e2a457b19686d9bcb0f732a6ef7d72d44019c2a8b419aeb2b3e4afb921"
+    },
+    "10.0.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.0.0/fd-v10.0.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:04c6b0c79cf408347059d889b2d7599359c60f99eb66dd724ab2c48eb663d701"
+    },
+    "10.0.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.0.0/fd-v10.0.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:3177ba9c730d261d13929d77e173bccdfb6a741862445f0e67e7d9e93cc97bc3"
+    },
+    "10.1.0-aarch64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.1.0/fd-v10.1.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:8b5261c549bf3780a2bcbd860a0bc79a8ddf8ac7e7651f47e828c768ccaf511b"
+    },
+    "10.1.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.1.0/fd-v10.1.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:a7a1eb31808ac1978d51ef589db2d003a8746dc435dcb7a1a0b9d1a629abef02"
+    },
+    "10.1.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.1.0/fd-v10.1.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:eb21c4bccba79222da85115ca60963b238778e03a384b23e78b9c4bdd292b843"
+    },
+    "10.1.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.1.0/fd-v10.1.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:4abefca3287a7999bb9302dcd878de8d7463cb95b090413b06b6a74916f3b90c"
+    },
+    "10.1.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.1.0/fd-v10.1.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:715bfee6fbc9ed8ace5c4948051b7224d7843e2a829f15e19481cffd157453a0"
+    },
+    "10.1.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.1.0/fd-v10.1.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:bb1f458edbd5ff28197c8b7264ff0c65220facb9ecf20ffde607304dcccc11aa"
+    },
+    "10.1.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.1.0/fd-v10.1.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:316cdaf5c6ec7e8b0664914df1da21c511aef2a023e13f8628354e60e0346dac"
+    },
+    "10.1.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.1.0/fd-v10.1.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:25fea4d87a8fe94aa42d178d3c1d80748b9f70b7c8ba7c181df24fe7b6a629e3"
+    },
+    "10.1.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.1.0/fd-v10.1.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:25091fb18ab97134b1bcaa96413f0d0d253d0e85d51528affce4c5f7f1e129c2"
+    },
+    "10.1.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.1.0/fd-v10.1.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:08c4aea86e0a7eb574bd65fe1c8a9a570d157f9ac1467cb78c180ec915e55648"
+    },
+    "10.1.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.1.0/fd-v10.1.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:f8fa73aa005e71598c1cdbb03ae6979fd016d5a8aaf92ee84ed6f8f186c58ead"
+    },
+    "10.2.0-aarch64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-aarch64-apple-darwin.tar.gz",
+      "hash": "sha256:ae6327ba8c9a487cd63edd8bddd97da0207887a66d61e067dfe80c1430c5ae36"
+    },
+    "10.2.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:6de8be7a3d8ca27954a6d1e22bc327af4cf6fc7622791e68b820197f915c422b"
+    },
+    "10.2.0-aarch64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-aarch64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:4e8e596646d047d904f2c5ca74b39dccc69978b6e1fb101094e534b0b59c1bb0"
+    },
+    "10.2.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:a35941bc1063bd514b9e214d55b23ea3dd32ad1d7e74d2fa1b06ec34cbb36cc9"
+    },
+    "10.2.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:807ba118a284b7f80adef7d3eb7fc9817fba079cb27eb10f553bba2c469588b0"
+    },
+    "10.2.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:2a2fe4e631c170d25850795aab899cc58dd80c9ea58d50827f5aa13d4c915869"
+    },
+    "10.2.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:991a648a58870230af9547c1ae33e72cb5c5199a622fe5e540e162d6dba82d48"
+    },
+    "10.2.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:9136e4e11734d26d39cc577431c32c7387bc357b950125f8c941adc8031b5685"
+    },
+    "10.2.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:92ac9e6b0a0c6ecdab638ffe210dc786403fff4c66373604cf70df27be45e4fe"
+    },
+    "10.2.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:5f9030bcb0e1d03818521ed2e3d74fdb046480a45a4418ccff4f070241b4ed25"
+    },
+    "10.2.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v10.2.0/fd-v10.2.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:d9bfa25ec28624545c222992e1b00673b7c9ca5eb15393c40369f10b28f9c932"
+    },
+    "8.5.1-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:6e9d2fe8f42ed085e23bb9e4ac09d21b0436b01dd61255bad09aae0ec518d7a9"
+    },
+    "8.5.1-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-i686-pc-windows-msvc.zip",
+      "hash": "sha256:4ec87438618ab3a797f940c465acba2fd5479bdc149d48605cee16dd0ce75591"
+    },
+    "8.5.1-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:cc209a8e031995cf721aaac1645876089317c56bbaf9dc041c206d42ff765187"
+    },
+    "8.5.1-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:a7c19dba5f73db792bbbfeca48a1e11c8e797e14ae3d6871cc24ad06c1c9b222"
+    },
+    "8.5.1-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:4d13d34cb7a9a822e5a62b368eafc76168a219c8ec114e65fdc1ba67ad8c0b14"
+    },
+    "8.5.1-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:1d341cdcac09eca452049b89f2da342b370d3dda51a361cef56c9cf6f0d41e30"
+    },
+    "8.5.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:9e975832194ac548182e0d3e3bac3faf828f024253d583b7527f7691c284f271"
+    },
+    "8.5.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:98b115515303f6c0f29b725baa3fe713dc92da1c129c881f51f355a09352133a"
+    },
+    "8.5.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.1/fd-v8.5.1-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:f458263bae0848456557154a22d01df1c4341c611b6f910bb86d789b0851c842"
+    },
+    "8.5.2-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:ada0565c49c2b001db1c250645b29460a57a2dedeaf6d324c0f2c828a7d01a89"
+    },
+    "8.5.2-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-i686-pc-windows-msvc.zip",
+      "hash": "sha256:00cf613b9ac7256070137a60e0668b102988ee8764c334c1ad386a2076a7762f"
+    },
+    "8.5.2-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:518798d44348d9519ab4409b541843327c9c9a1e239da1d48ce4c49f1e1b50c4"
+    },
+    "8.5.2-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:b90bcdea9895b0dfc06314d9e1608ec263264fce39d90cc4d65787819f059b6f"
+    },
+    "8.5.2-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:8a2dc06664c4511a44a49b855347ae37effeaa555cfa1049b82087bd2f995f0e"
+    },
+    "8.5.2-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:ddb52ad0720bae2781c3197dbac61f3cd53c1aa4d9071ce6c3f6198293a6fcbe"
+    },
+    "8.5.2-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:0ec4c16b419da2da32b4b012da2ff6367bd0b7594ba574c40d701f86e6168682"
+    },
+    "8.5.2-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:046aca23f5b6e3dfc096f936216264df7efd45b36b4fe1ef39a9e01bb6078b39"
+    },
+    "8.5.2-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.2/fd-v8.5.2-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:1202ac2afd4dc4aba7e1ca74f1896ab563381f49363d578ee84f1bcfd0559e2f"
+    },
+    "8.5.3-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:ee47e1b47c51b4c152a7b714f3e91d17445e24fc6f1c48f63f90bfd54c7dfd23"
+    },
+    "8.5.3-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-i686-pc-windows-msvc.zip",
+      "hash": "sha256:b3d269a4572675c0900f2cc52f3b2a7c95d36f32b2a4e99ff0481b73478c821f"
+    },
+    "8.5.3-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:33fed784ac6471b30c7a1ebffd448ad8ef087f13c604c7fec2b081d57b8fadc2"
+    },
+    "8.5.3-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:4ef1c71550199a2090228a2c3f80929772a8b2836ffa1bcee78a0cf6f3048508"
+    },
+    "8.5.3-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:142820d92350aeda10a0f3d3fc39bca9b86a0ad874e672c75e22fcbf847beeec"
+    },
+    "8.5.3-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:082cdd1b0388548bad5e4b6165f284d3367c66e5056735d77b3ee9b435657c2e"
+    },
+    "8.5.3-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:461c182d897ea5821ea69a9e15d383497be3a9d4188f60a57e32be892544bfe3"
+    },
+    "8.5.3-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:04f677c043289c3b189580bb6d4d27abd556b73e97895dddf9f36fa6289179d1"
+    },
+    "8.5.3-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.5.3/fd-v8.5.3-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:925162af1ade691ec1abc2112cd78bd2ee3ac62546fa92227f568293ecf0d668"
+    },
+    "8.6.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:be0096fcd18536158a37b2d582beea193cf882efbe8f3085dfb3431cc4334dcb"
+    },
+    "8.6.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:2783168c0af2c78ee293b447a073b06898711dd70e81405296b884c59943c6d1"
+    },
+    "8.6.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:704a10d5de1d0375b8d241be3661f477f72d8685a52166a287367f13ff9dad6c"
+    },
+    "8.6.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:08947d672b08346cde1133cc53edb5069c4778debb1b0b0c8dbee4ec2036303c"
+    },
+    "8.6.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:f8629345125c130fac82e2ce2bd3aba8cd68f923076081409c9d8791b731693e"
+    },
+    "8.6.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:eca469883a32a54779ed70879ef164ce06fb34360c3c45afb3ebc4171d58cc40"
+    },
+    "8.6.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:9cff97eb1c024ed94cc76a4b2d924ab3df04b37e7430c282b8188a13f1653ebe"
+    },
+    "8.6.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:32b386efe6e871a1b6777f84eea49628eb225d958d88f971c36a6e02014524b8"
+    },
+    "8.6.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.6.0/fd-v8.6.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:9fdb370648fb8256fc9a36355c652546bd4c62925babcad80f95f90f74fc81e7"
+    },
+    "8.7.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:fe2afd7fbc9234cf2a23fe7d217e8bf97b149f16a442a4f4d6897806f138cb0a"
+    },
+    "8.7.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:0c7851a9f6c587ea1adb439748c33af23e453eb67cb14b6f1a3b9813db49890b"
+    },
+    "8.7.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:07325352ceaa76994c66308fdeb43b29dfa2bd24693911422dfc58cdd14d9bb5"
+    },
+    "8.7.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:dcfebf79196d715b7a15af0cc7d067b897d771ea000e1d63c8e63b809756a2dc"
+    },
+    "8.7.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:df1320ed493da88a9db03388a002aad6ea419561430ebd64a47e2a9e7b2c696f"
+    },
+    "8.7.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:58a522c2ae66af71125e328e0db5f960e255d4633cc555f59240fb8df34970e0"
+    },
+    "8.7.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:657cf430a1b349ce2b9cceeaed0b14220a417bbf24a85995aa6fbf8f746f4e03"
+    },
+    "8.7.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:b5274947f7240b6a084b4d1eb4271e7892de76efa21d3d4b65331989578487c3"
+    },
+    "8.7.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.0/fd-v8.7.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:ced2541984b765994446958206b3411f3dea761a5e618cb18b4724c523727d68"
+    },
+    "8.7.1-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:7f6bfe1226609e809474873f4fadc1076876aebaf942bd4e118f238f2309dfdc"
+    },
+    "8.7.1-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-i686-pc-windows-msvc.zip",
+      "hash": "sha256:b92a41a5aed9bb5cbe47ce71570a4b9afc6941c89be507437eb852f83a80d1f9"
+    },
+    "8.7.1-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:8ad72e5f25d089ed2838048077273209b05749d2800885e9989ad53be4fed464"
+    },
+    "8.7.1-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:56ca74194adc2486408ee19f99ef2f44c0a29eb808d3dd9e2cb4cde654952bdf"
+    },
+    "8.7.1-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:4ec1ce931631aae5acef55f4a2d5e74d47ac8707a1fc3146f0abf43794062704"
+    },
+    "8.7.1-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:05af65afac40f254d9a3bb5892ed7261a79db52275c86f2b2d578159c7b0a192"
+    },
+    "8.7.1-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:3c0d6517ad5c9989d0e96d2d7a98a7bff444b0a3cf10a1b9cbae753c02f27477"
+    },
+    "8.7.1-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:0f4a97d426ff44d379a2fa13e5fbce85cc6a1ad2d7e1c94bc224beef441d5960"
+    },
+    "8.7.1-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v8.7.1/fd-v8.7.1-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:a3333f64a3673f51ec6378f73e743a8cce3a225af66fb0d7865f7bde0febac73"
+    },
+    "9.0.0-aarch64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-aarch64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:94844b8bdb8e7d48d4aa48574a6ba8bc404a88b1043e5b857602b91f6dfb188a"
+    },
+    "9.0.0-i686-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-i686-pc-windows-msvc.zip",
+      "hash": "sha256:84b37e3238de8d91e1501d9a317e53fd8d938380f9e7370c42ba1eed88f6440e"
+    },
+    "9.0.0-i686-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-i686-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:6aafd1e60491a436cb0f0e70058d9bcb0bf1228f4ddb3ccc0708cd6a08013e1c"
+    },
+    "9.0.0-i686-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-i686-unknown-linux-musl.tar.gz",
+      "hash": "sha256:dfeaa3440b73b5e3e9db42e480ca6ae2401bdb9f2af7c6c1b58b1aa201a2fb33"
+    },
+    "9.0.0-x86_64-apple-darwin": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-x86_64-apple-darwin.tar.gz",
+      "hash": "sha256:33abee4841ac6c68a818291c93fdb2599ef87069be288880bdfe46f58e5549a4"
+    },
+    "9.0.0-x86_64-pc-windows-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-x86_64-pc-windows-gnu.zip",
+      "hash": "sha256:8fd02a90caaff40a8b5af441889e82b5da3be7b53180fc1e8df2c6df8ba0862e"
+    },
+    "9.0.0-x86_64-pc-windows-msvc": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-x86_64-pc-windows-msvc.zip",
+      "hash": "sha256:8c5ff3fb24ef02f78d3e8e7ddf116456aceeeb3832f20bba56f21d8b373e5e1b"
+    },
+    "9.0.0-x86_64-unknown-linux-gnu": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-x86_64-unknown-linux-gnu.tar.gz",
+      "hash": "sha256:a92f77c76bca0db49810ed2333332356a2b7c6f6f19e842373e6ecfd4c180a67"
+    },
+    "9.0.0-x86_64-unknown-linux-musl": {
+      "url": "https://github.com/sharkdp/fd/releases/download/v9.0.0/fd-v9.0.0-x86_64-unknown-linux-musl.tar.gz",
+      "hash": "sha256:069e2d58127ddd944c03a2684ad79f72e3f9bd3e0d2642c36adc5b367c134592"
+    }
+  }
+}
