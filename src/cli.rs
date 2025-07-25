@@ -30,5 +30,7 @@ pub enum Commands {
     FromList {
         /// File to get the names and repos from
         file: String,
-    }
+    },
+    /// Sync the registry.json with the contents of tools/
+    Sync,
 }

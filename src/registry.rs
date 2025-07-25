@@ -7,6 +7,17 @@ use crate::fetch::GitHubRelease;
 use crate::util::extract_target_triple;
 
 #[derive(Debug, Deserialize, Serialize)]
+pub struct Registry {
+    pub registered: Vec<ToolInfo>,
+}
+
+#[derive(Debug, Deserialize, Serialize)]
+pub struct ToolInfo {
+    pub name: String,
+    pub repo: String,
+}
+
+#[derive(Debug, Deserialize, Serialize)]
 pub struct RegistryTool {
     pub name: String,
     pub repo: String,

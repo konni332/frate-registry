@@ -1,0 +1,80 @@
+{
+  "registered": [
+    {
+      "name": "atuin",
+      "repo": "https://github.com/atuinsh/atuin"
+    },
+    {
+      "name": "bat",
+      "repo": "https://github.com/sharkdp/bat"
+    },
+    {
+      "name": "bottom",
+      "repo": "https://github.com/ClementTsang/bottom"
+    },
+    {
+      "name": "broot",
+      "repo": "https://github.com/Canop/broot"
+    },
+    {
+      "name": "delta",
+      "repo": "https://github.com/dandavison/delta"
+    },
+    {
+      "name": "dust",
+      "repo": "https://github.com/bootandy/dust"
+    },
+    {
+      "name": "exa",
+      "repo": "https://github.com/ogham/exa"
+    },
+    {
+      "name": "fd",
+      "repo": "https://github.com/sharkdp/fd"
+    },
+    {
+      "name": "fzf",
+      "repo": "https://github.com/junegunn/fzf"
+    },
+    {
+      "name": "gitui",
+      "repo": "https://github.com/extrawurst/gitui"
+    },
+    {
+      "name": "helix",
+      "repo": "https://github.com/helix-editor/helix"
+    },
+    {
+      "name": "hyperfine",
+      "repo": "https://github.com/sharkdp/hyperfine"
+    },
+    {
+      "name": "just",
+      "repo": "https://github.com/casey/just"
+    },
+    {
+      "name": "procs",
+      "repo": "https://github.com/dalance/procs"
+    },
+    {
+      "name": "ripgrep",
+      "repo": "https://github.com/BurntSushi/ripgrep"
+    },
+    {
+      "name": "starship",
+      "repo": "https://github.com/starship/starship"
+    },
+    {
+      "name": "tealdeer",
+      "repo": "https://github.com/dbrgn/tealdeer"
+    },
+    {
+      "name": "tokei",
+      "repo": "https://github.com/XAMPPRocky/tokei"
+    },
+    {
+      "name": "zellij",
+      "repo": "https://github.com/zellij-org/zellij"
+    }
+  ]
+}
